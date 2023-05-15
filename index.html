@@ -9,11 +9,11 @@
 </head>
 <body>
     <script>
-        var myJson = ""
-        
+        const myBody = document.getElementsByTagName('body');
+    
         window.onload = function(){
             htmlLoader();
-            console.log(prices);   
+              
         }
         function htmlLoader(){
             fetch('drugs.json')
@@ -24,8 +24,11 @@
                     return response.text();
                 })
                 .then(prices => {
-                    myJson = prices;
-                    console.log(prices);
+                   // myJson = prices;
+                    for (const item of prices) {
+                        console.log(item.name);
+                        
+                    }
                    
                 });
 
