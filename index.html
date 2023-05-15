@@ -25,8 +25,9 @@
                 })
                 .then(prices => {
                    // myJson = prices;
-                    for (const item of prices) {
-                        console.log(item.price);
+                    for (let index = 0; index < prices.length; index++) {
+                        const element = prices[index];
+                        console.log(element);
                         
                     }
                    
