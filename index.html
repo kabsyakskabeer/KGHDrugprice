@@ -16,7 +16,7 @@
             console.log(myJson);   
         }
         function htmlLoader(){
-            fetch('/drugs.json')
+            fetch('drugs.json')
                 .then(response => {
                     if (!response.ok) {
                         throw new Error("HTTP error " + response.status);
