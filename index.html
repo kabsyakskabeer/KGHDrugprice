@@ -13,7 +13,7 @@
         
         window.onload = function(){
             htmlLoader();
-            console.log(myJson);   
+            console.log("kabeer");   
         }
         function htmlLoader(){
             fetch('drugs.json')
@@ -25,6 +25,7 @@
                 })
                 .then(prices => {
                     myJson = prices;
+                    console.log(prices);
                    
                 });
 
