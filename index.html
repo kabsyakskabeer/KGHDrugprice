@@ -9,7 +9,13 @@
 </head>
 <body>
     <script>
+        let myJson = ""
+        
         window.onload = function(){
+            htmlLoader();
+            console.log(myJson);   
+        }
+        function htmlLoader(){
             fetch('/drugs.json')
                 .then(response => {
                     if (!response.ok) {
@@ -18,13 +24,11 @@
                     return response.text();
                 })
                 .then(prices => {
-                    var string = prices;
-                    console.log(string);   
+                    myJson = prices;
+                   
                 });
+
         }
-       
-
-
     </script>
 </body>
 
