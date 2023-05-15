@@ -11,17 +11,18 @@
     <script>
         const root = document.getElementsByTagName('body');
         root.onload = function(){
-            fetch('/drugs.json')
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error("HTTP error " + response.status);
-                    }
-                    return response.text();
-                })
-                .then(prices => {
-                    var string = prices;
-                    console.log(string);   
-                });
+            console.log("kabiru yakubu");
+            // fetch('/drugs.json')
+            //     .then(response => {
+            //         if (!response.ok) {
+            //             throw new Error("HTTP error " + response.status);
+            //         }
+            //         return response.text();
+            //     })
+            //     .then(prices => {
+            //         var string = prices;
+            //         console.log(string);   
+            //     });
         }
        
 
