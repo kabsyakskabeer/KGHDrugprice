@@ -36,9 +36,9 @@
 
         }
         function listLoader(list){
-            list.forEach(element => {
-              console.log(element);
-            });
+            for (const item in list) {
+                console.log(item.dosageform)
+            }
         }
     </script>
 </body>
