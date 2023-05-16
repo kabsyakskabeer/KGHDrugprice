@@ -28,18 +28,15 @@
                 })
                 .then(prices => {
                    myDrugs = JSON.parse(prices);
-                   listLoader(myDrugs);
+                   //listLoader(myDrugs);
+                   console.log(myDrugs);
 
                    
                    
             });
 
         }
-        function listLoader(list){
-            for (const item in list) {
-                console.log(list[2]);
-            }
-        }
+        
     </script>
 </body>
 
