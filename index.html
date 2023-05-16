@@ -10,11 +10,11 @@
 <body>
     <script>
         const myBody = document.getElementsByTagName('body');
-        let myDrugs = [];
+        var myDrugs = [];
     
         window.onload = function(){
             htmlLoader();
-            console.log(myDrugs);
+           
               
         }
         function htmlLoader(){
@@ -27,10 +27,12 @@
                 })
                 .then(prices => {
                    // myJson = prices;
-                    for (let item in prices) {
-                        myDrugs.push[item];
+                    for (var item in prices) {
+                        myDrugs.push(prices[item]);
+                        
                         
                     }
+                    console.log(myDrugs);
                    
                 });
 
