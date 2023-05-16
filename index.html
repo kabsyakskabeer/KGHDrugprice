@@ -13,12 +13,12 @@
         var myDrugs = [];
     
         window.onload = function(){
-            htmlLoader();
-            console.log(myDrugs);
+            jsonLoader();
+            
            
               
         }
-        function htmlLoader(){
+        function jsonLoader(){
             fetch('drugs.json')
                 .then(response => {
                     if (!response.ok) {
@@ -27,12 +27,18 @@
                     return response.text();
                 })
                 .then(prices => {
-                   // myJson = prices;
                    myDrugs = JSON.parse(prices);
-                   
-                   
-                });
+                   listLoader(myDrugs);
 
+                   
+                   
+            });
+
+        }
+        function listLoader(list){
+            list.forEach(element => {
+              console.log(element);
+            });
         }
     </script>
 </body>
