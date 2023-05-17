@@ -31,11 +31,12 @@
                 .then(prices => {
                    myDrugs = JSON.parse(prices);
                    for (let index = 0; index < myDrugs.length; index++) {
-                    const element = myDrugs[index];
-                    theString += `<div> <div>  ${element.dosageform} </div> <div>  ${element.name} </div>  <div>  ${element.quantity} </div> <div>  ${element.price} </div> </div>`;
-                    myBody.innerHTML = theString;
-                    
-                   }       
+                        const element = myDrugs[index];
+                        theString += `<div> <div>  ${element.dosageform} </div> <div>  ${element.name} </div>  <div>  ${element.quantity} </div> <div>  ${element.price} </div> </div>`;
+                   }
+                   console.log(theString);
+                   
+                    myBody.innerHTML = theString;       
             });
 
         }
