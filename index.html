@@ -30,7 +30,7 @@
                    myDrugs = JSON.parse(prices);
                    for (let index = 0; index < myDrugs.length; index++) {
                         const element = myDrugs[index];
-                        theString += `<div> <div class="item">  ${element.dosageform} </div> <div class ="item">  ${element.name} </div>  <div class ="item">  ${element.quantity} </div> <div class ="item">  ${element.price} </div> </div>`;
+                        theString += `<div> <span class="item">  ${element.dosageform} </span> <span class ="item">  ${element.name} </span>  <span class ="item">  ${element.quantity} </span> <span class ="item">  ${element.price} </span> </div>`;
                    }
                    
                    
@@ -38,7 +38,7 @@
             });
 
         }
-        
+
             let item = document.getElementsByClassName("item");
             item.style.display = "inline";
         
