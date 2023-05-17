@@ -28,8 +28,10 @@
                 })
                 .then(prices => {
                    myDrugs = JSON.parse(prices);
-                   //listLoader(myDrugs);
-                   console.log(myDrugs[1].dosageform);
+                   for (const i of myDrugs) {
+                    console.log(myDrugs[i].dosageform)
+                   }
+                   ;
 
                    
                    
