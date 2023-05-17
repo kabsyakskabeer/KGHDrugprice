@@ -4,21 +4,21 @@
         {
           "dosageform":  "Tab",
           "name":"Paracetamol 500mg",
-          "qantity":"18",
+          "quantity":"18",
           "price":70
 
         },
         {
             "dosageform":  "Tab",
             "name":"Ciprofloxacin 500mg",
-            "qantity":"1 pack",
+            "quantity":"1 pack",
             "price":450
   
         },
         {
             "dosageform":  "Tab",
             "name":"Metronidazole 200mg",
-            "qantity":"30",
+            "quantity":"30",
             "price":110
   
           }
