@@ -19,6 +19,7 @@
               
         }
         function jsonLoader(){
+            let theString ="";
             fetch('drugs.json')
                 .then(response => {
                     if (!response.ok) {
@@ -30,7 +31,8 @@
                    myDrugs = JSON.parse(prices);
                    for (let index = 0; index < myDrugs.length; index++) {
                     const element = myDrugs[index];
-                    console.log(element.dosageform)
+                    theString += `<div> <div>  ${element.dosageform} </div> <div>  ${element.name} </div>  <div>  ${element.quantity} </div> <div>  ${element.price} </div> </div>`;
+                    myBody.innerHTML = theString;
                     
                    }       
             });
