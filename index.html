@@ -20,20 +20,20 @@
             width: 10%;
 
         }
-        #drug-quantity{
+        .drug-quantity{
             width: 10%;
         }
-        #drug-name{
+        .drug-name{
             width: 60%;
         }
-        #drug-price{
+        .drug-price{
             width: 10%;
         }
 
     </style>
 </head>
 <body>
-    <div id ="heading"><h3 class="dosage-form">DS form</h3> <h3>Name</h3> <h3>Qtt</h3><h3>Price</h3></div>
+    <div id ="heading"><h3 class="dosage-form">DS form</h3 class="drug-name"> <h3>Name</h3> <h3 class="drug-quantity">Qtt</h3><h3 class="drug-price">Price</h3></div>
     <div id="main"></div>
     <script>
         var myDrugs = [];
@@ -56,7 +56,7 @@
                    myDrugs = JSON.parse(prices);
                    for (let index = 0; index < myDrugs.length; index++) {
                         const element = myDrugs[index];
-                        theString += `<li><span class="dosage-form"> ${element.dosageform} </span> <span id="drug-name">  ${element.name} </span>  <span id="drug-quantity">  ${element.quantity} </span> <span id ="drug-price">${element.price}</span> </li>`;
+                        theString += `<li><span class="dosage-form"> ${element.dosageform} </span> <span class="drug-name">  ${element.name} </span>  <span class="drug-quantity">  ${element.quantity} </span> <span class ="drug-price">${element.price}</span> </li>`;
                    }
                    
                    
