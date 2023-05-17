@@ -28,13 +28,11 @@
                 })
                 .then(prices => {
                    myDrugs = JSON.parse(prices);
-                   for (const i of myDrugs) {
-                    console.log(myDrugs[i].dosageform)
-                   }
-                   
-
-                   
-                   
+                   for (let index = 0; index < myDrugs.length; index++) {
+                    const element = myDrugs[index];
+                    console.log(element.dosageform)
+                    
+                   }       
             });
 
         }
