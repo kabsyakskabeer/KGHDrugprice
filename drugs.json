@@ -42,19 +42,19 @@
                 "quantity":"1",
                 "price":204.75
       
-              },
-              {
-                  "dosageform":  "Tab. ",
-                  "name":"Spiranolactone 25mg",
-                  "quantity":"1",
-                  "price":18.72
+            },
+            {
+                "dosageform":  "Tab. ",
+                "name":"Spiranolactone 25mg",
+                "quantity":"1",
+                "price":18.72
         
-              },
-              {
-                  "dosageform":  "Tab. ",
-                  "name":"Metyldopa 250mg",
-                  "quantity":"10",
-                  "price":288.99
+            },
+            {
+                "dosageform":  "Tab. ",
+                "name":"Metyldopa 250mg",
+                "quantity":"10",
+                "price":288.99
         
-              }
+            }
     ]
