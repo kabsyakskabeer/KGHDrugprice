@@ -10,10 +10,13 @@
         span{
             display: inline-block;
         }
+        h3{
+            display: inline-block;
+        }
         body{
             background-color: bisque;
         }
-        #dosage-form{
+        .dosage-form{
             width: 10%;
 
         }
@@ -30,14 +33,14 @@
     </style>
 </head>
 <body>
+    <div id ="heading"><h3 class="dosage-form">DS form</h3> <h3>Name</h3> <h3>Qtt</h3><h3>Price</h3></div>
     <script>
         var myDrugs = [];
     
         window.onload = function(){
             jsonLoader();
             
-           
-              
+            
         }
         function jsonLoader(){
             let theString ="";
@@ -52,7 +55,7 @@
                    myDrugs = JSON.parse(prices);
                    for (let index = 0; index < myDrugs.length; index++) {
                         const element = myDrugs[index];
-                        theString += `<li><span id="dosage-form"> ${element.dosageform} </span> <span id="drug-name">  ${element.name} </span>  <span id="drug-quantity">  ${element.quantity} </span> <span id ="drug-price">${element.price}</span> </li>`;
+                        theString += `<li><span class="dosage-form"> ${element.dosageform} </span> <span id="drug-name">  ${element.name} </span>  <span id="drug-quantity">  ${element.quantity} </span> <span id ="drug-price">${element.price}</span> </li>`;
                    }
                    
                    
