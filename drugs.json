@@ -21,5 +21,40 @@
             "quantity":"30",
             "price":110
   
-          }
+          },
+        {
+            "dosageform":  "Tab",
+            "name":"Acetozolamide 250mg",
+            "quantity":"1",
+            "price":29.25
+  
+          },
+          {
+              "dosageform":  "Tab. ",
+              "name":"Asprin 75mg",
+              "quantity":"10",
+              "price":83.07
+    
+            },
+            {
+                "dosageform":  "Tab. ",
+                "name":"Albendazole 200mg",
+                "quantity":"1",
+                "price":204.75
+      
+              },
+              {
+                  "dosageform":  "Tab. ",
+                  "name":"Spiranolactone 25mg",
+                  "quantity":"1",
+                  "price":18.72
+        
+              },
+              {
+                  "dosageform":  "Tab. ",
+                  "name":"Metyldopa 250mg",
+                  "quantity":"10",
+                  "price":288.99
+        
+              }
     ]
