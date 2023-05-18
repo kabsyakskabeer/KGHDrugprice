@@ -17,8 +17,9 @@
         #heading{
             position: sticky;
             top: 10px;
-            width: fit-content;
             background-color: aqua;
+            display: flex;
+            justify-content: space-around;
             
         }
         
@@ -64,6 +65,7 @@
     <div id="main"></div>
     <script>
         var myDrugs = [];
+        let calButton = document.getElementsByClassName("calButton");
     
         window.onload = function(){
             jsonLoader();
@@ -90,6 +92,9 @@
                     document.getElementById("main").innerHTML = `<ol> ${theString} </ol>`;       
             });
         }
+        calButton.addEventListener('click',function(){
+            console.log('hi');
+        });
 
             // let item = document.getElementById('#dosage-form');
             // item.style.backgroundColor = "red";
