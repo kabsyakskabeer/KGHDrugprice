@@ -58,14 +58,14 @@
         <option value="cons">Consumables</option>
         <option value="Others">Others</option>
         </select>
-        <button class="calButton">Calculator</button>
+        <button id="calButton">Calculator</button>
 
     </div>
     <div class="cal">hi</div>
     <div id="main"></div>
     <script>
         var myDrugs = [];
-        let calButton = document.getElementsByClassName(".calButton");
+        let calButton = document.getElementById("calButton");
         calButton.addEventListener("click", function(){
             console.log("hi");
   
@@ -96,13 +96,7 @@
                     document.getElementById("main").innerHTML = `<ol> ${theString} </ol>`;       
             });
         }
-        calButton.addEventListener('click',function(){
-            console.log('hi');
-        });
-
-            // let item = document.getElementById('#dosage-form');
-            // item.style.backgroundColor = "red";
-        
+       
         
     </script>
 </body>
