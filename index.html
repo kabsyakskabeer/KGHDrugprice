@@ -13,6 +13,7 @@
         }
         body{
             background-color: bisque;
+            z-index: 0;
         }
         #heading{
             position: sticky;
@@ -68,12 +69,12 @@
         let cal = document.querySelector('cal');
         let calButton = document.getElementById("calButton");
         calButton.addEventListener("click", function(){
-            // if(cal.style.zIndex == "0"){
-            //     cal.style.zIndex = "1";
+            if(cal.style.zIndex == "-1"){
+                cal.style.zIndex = "1";
 
-            // }else{
-            //     cal.style.zIndex = "0";
-            // }
+            }else{
+                cal.style.zIndex = "-1";
+            }
         });
     
         window.onload = function(){
