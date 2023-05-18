@@ -35,19 +35,31 @@
           
 
         }
+        .cal{
+            position: absolute;
+            top: 15px;
+            z-index: 0;
+            height: 100%;
+            width: 100%;
+            background-color: darkkhaki;
+        }
 
     </style>
 </head>
 <body>
     <div id="heading"> 
         <select name="dsforms" id="DSF">
-    <option value="Tab">Tablet</option>
-    <option value="Inj">Injection</option>
-    <option value="opel">Suspensions</option>
-    <option value="audi">Others</option>
-  </select>
+        <option value="Tab">Tablet</option>
+        <option value="Cap">Capsule</option>
+        <option value="Inj">Injection</option>
+        <option value="susp">Suspensions</option>
+        <option value="cons">Consumables</option>
+        <option value="Others">Others</option>
+        </select>
+        <button class="calButton">Calculator</button>
 
-</div>
+    </div>
+    <div class="cal"></div>
     <div id="main"></div>
     <script>
         var myDrugs = [];
