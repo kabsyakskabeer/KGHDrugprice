@@ -25,7 +25,7 @@
             width: 10%;
         }
         #drug-name{
-            width: 75%;
+            width: 73%;
         }
         #drug-price{
             width: 10%;
@@ -39,7 +39,15 @@
     </style>
 </head>
 <body>
-    <div id="heading">Heading</div>
+    <div id="heading"> 
+        <select name="dsforms" id="DSF">
+    <option value="Tab">Tablet</option>
+    <option value="Inj">Injection</option>
+    <option value="opel">Suspensions</option>
+    <option value="audi">Others</option>
+  </select>
+
+</div>
     <div id="main"></div>
     <script>
         var myDrugs = [];
