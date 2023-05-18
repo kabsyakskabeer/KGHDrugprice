@@ -37,7 +37,7 @@
     </style>
 </head>
 <body>
-    <div id ="heading"></div>
+    <div id="heading"></div>
     <div id="main"></div>
     <script>
         var myDrugs = [];
@@ -60,7 +60,7 @@
                    myDrugs = JSON.parse(prices);
                    for (let index = 0; index < myDrugs.length; index++) {
                         const element = myDrugs[index];
-                        theString += `<li><span id="<span class="drug-name"> ${element.dosageform}   ${element.name} </span>  <span id="drug-quantity">  ${element.quantity} </span> <span id="drug-price">${element.price}</span> </li>`;
+                        theString += `<li><span class="drug-name"> ${element.dosageform}   ${element.name} </span>  <span id="drug-quantity">  ${element.quantity} </span> <span id="drug-price">${element.price}</span> </li>`;
                    }
                    
                    
