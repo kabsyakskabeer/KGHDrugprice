@@ -66,6 +66,10 @@
     <script>
         var myDrugs = [];
         let calButton = document.getElementsByClassName(".calButton");
+        calButton.addEventListener("click", function(){
+            console.log("hi");
+  
+        });
     
         window.onload = function(){
             jsonLoader();
