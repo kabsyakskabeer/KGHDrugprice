@@ -40,7 +40,7 @@
         .cal{
             position: absolute;
             top: 40px;
-            z-index: 2;
+            z-index: 0;
             height: 100%;
             width: 100%;
             background-color: darkkhaki;
@@ -65,10 +65,15 @@
     <div id="main"></div>
     <script>
         var myDrugs = [];
+        let cal = document.querySelector('cal');
         let calButton = document.getElementById("calButton");
         calButton.addEventListener("click", function(){
-            console.log("hi");
-  
+            if(cal.style.zIndex == "0"){
+                cal.style.zIndex = "1";
+
+            }else{
+                cal.style.zIndex = "0";
+            }
         });
     
         window.onload = function(){
