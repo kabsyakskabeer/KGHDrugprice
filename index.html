@@ -8,7 +8,7 @@
     <title>Price List</title>
     <style>
         .heading{
-            position: sticky;
+            position: fixed;
             height: 30px;
         }
         span{
@@ -25,7 +25,7 @@
             width: 10%;
         }
         .drug-name{
-            width: 70%;
+            width: 60%;
         }
         .drug-price{
             width: 10%;
@@ -57,7 +57,7 @@
                    myDrugs = JSON.parse(prices);
                    for (let index = 0; index < myDrugs.length; index++) {
                         const element = myDrugs[index];
-                        theString += `<li><span class="dosage-form"> ${element.dosageform} </span> <span class="drug-name">  ${element.name} </span>  <span class="drug-quantity">  ${element.quantity} </span> <span class ="drug-price">${element.price}</span> </li>`;
+                        theString += `<li><span class="<span class="drug-name"> ${element.dosageform}   ${element.name} </span>  <span class="drug-quantity">  ${element.quantity} </span> <span class ="drug-price">${element.price}</span> </li>`;
                    }
                    
                    
