@@ -13,7 +13,7 @@
         }
         body{
             background-color: bisque;
-            z-index: 0;
+         
         }
         #heading{
             position: sticky;
@@ -41,7 +41,7 @@
         .cal{
             position: absolute;
             top: 40px;
-            /* z-index: 0; */
+            z-index: 0;
             height: 100%;
             width: 100%;
             background-color: darkkhaki;
@@ -62,20 +62,20 @@
         <button id="calButton">Calculator</button>
 
     </div>
-    <!-- <div class="cal">hi</div> -->
+    <div class="cal">hi</div>
     <div id="main"></div>
     <script>
         var myDrugs = [];
         let cal = document.querySelector('cal');
         let calButton = document.getElementById("calButton");
-        // calButton.addEventListener("click", function(){
-        //     if(cal.style.zIndex == "-1"){
-        //         cal.style.zIndex = "1";
+        calButton.addEventListener("click", function(){
+            if(cal.style.zIndex == "-1"){
+                cal.style.zIndex = "1";
 
-        //     }else{
-        //         cal.style.zIndex = "-1";
-        //     }
-        // });
+            }else{
+                cal.style.zIndex = "-1";
+            }
+        });
     
         window.onload = function(){
             jsonLoader();
