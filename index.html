@@ -38,7 +38,7 @@
           
 
         }
-        .cal{
+        #cal{
             position: absolute;
             top: 40px;
             z-index: -1;
@@ -62,11 +62,11 @@
         <button id="calButton">Calculator</button>
 
     </div>
-    <div class="cal">hi</div>
+    <div id="cal">hi</div>
     <div id="main"></div>
     <script>
         var myDrugs = [];
-        let call = document.querySelector('cal');
+        let cal = document.getElementById('cal');
         let calButton = document.getElementById("calButton");
         
     
@@ -103,7 +103,7 @@
             //     cal.style.zIndex = "-1";
             // }
              console.log('ji');
-            call.style.zIndex = 1;
+            cal.style.zIndex = 1;
            
         });
        
