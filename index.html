@@ -68,17 +68,7 @@
         var myDrugs = [];
         let call = document.querySelector('cal');
         let calButton = document.getElementById("calButton");
-        calButton.addEventListener("click", function(){
-            // if(cal.style.zIndex == "-1"){
-            //     cal.style.zIndex = "1";
-
-            // }else{
-            //     cal.style.zIndex = "-1";
-            // }
-             console.log('ji');
-            document.querySelector('cal').style.zIndex = 1;
-           
-        });
+        
     
         window.onload = function(){
             jsonLoader();
@@ -105,6 +95,17 @@
                     document.getElementById("main").innerHTML = `<ol> ${theString} </ol>`;       
             });
         }
+        calButton.addEventListener("click", function(){
+            // if(cal.style.zIndex == "-1"){
+            //     cal.style.zIndex = "1";
+
+            // }else{
+            //     cal.style.zIndex = "-1";
+            // }
+             console.log('ji');
+            call.style.zIndex = 1;
+           
+        });
        
         
     </script>
