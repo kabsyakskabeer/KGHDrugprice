@@ -96,14 +96,13 @@
             });
         }
         calButton.addEventListener("click", function(){
-            // if(cal.style.zIndex == "-1"){
-            //     cal.style.zIndex = "1";
+            if(cal.style.zIndex == -1){
+                cal.style.zIndex = 1;
 
-            // }else{
-            //     cal.style.zIndex = "-1";
-            // }
-             console.log('ji');
-            cal.style.zIndex = 1;
+            }else{
+                cal.style.zIndex = -1;
+            }
+        
            
         });
        
