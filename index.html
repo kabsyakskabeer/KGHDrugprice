@@ -81,10 +81,11 @@
         <div id = "invoice">
             <span>Total Price</span>
             <span><input type="number" id ="total"></span>
-            <button>clear</button>
+            <button id="clearPrice">clear</button>
             
         </div>
         <div id="salar">
+            <button id ="clearDrug">clear</button>
             <input list="drugList" id="drugInput" name="myHouse" placeholder="Drug" />
             <datalist id="drugList"> </datalist>
             <input type="number" placeholder="quantity" id="quantityInput"></input>
@@ -140,11 +141,19 @@
            
         });
         document.getElementById("addButton").addEventListener('click', function(){
-            console.log(document.getElementById("drugInput").value);
+           // console.log(document.getElementById("drugInput").value);
             document.getElementById("total").value = (20 + document.getElementById("total").value);
             
 
         });
+        let clearDrug = document.getElementById("clearDrug");
+        let clearPrice = document.getElementById("clearPrice");
+        clearDrug.addEventListener('click',function(){
+            document.getElementById("drugInput").value = ""
+
+
+        });
+
        
         
     </script>
