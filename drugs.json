@@ -2,224 +2,57 @@
 
      [
         {
-          "dosageform":  "Tab",
-          "name":"Paracetamol 500mg",
+          
+          "name":"Tab. Paracetamol 500mg",
           "quantity":"18",
           "price":70
 
         },
         {
-            "dosageform":  "Tab",
-            "name":"Ciprofloxacin 500mg",
+            
+            "name":"Tab. Ciprofloxacin 500mg",
             "quantity":"1",
             "price":45
   
         },
         {
-            "dosageform":  "Tab",
-            "name":"Metronidazole 200mg",
+           
+            "name":"Tab. Metronidazole 200mg",
             "quantity":"30",
             "price":110
   
           },
         {
-            "dosageform":  "Tab",
-            "name":"Acetozolamide 250mg",
+            
+            "name":"Tab. Acetozolamide 250mg",
             "quantity":"1",
             "price":29.25
   
           },
           {
-              "dosageform":  "Tab. ",
-              "name":"Asprin 75mg",
+              "name":"Tab. Asprin 75mg",
               "quantity":"10",
               "price":83.07
     
             },
             {
-                "dosageform":  "Tab. ",
-                "name":"Albendazole 200mg",
+                "name":"Tab. Albendazole 200mg",
                 "quantity":"1",
                 "price":204.75
       
             },
             {
-                "dosageform":  "Tab. ",
-                "name":"Spiranolactone 25mg",
+                
+                "name":"Tab. Spiranolactone 25mg",
                 "quantity":"1",
                 "price":18.72
         
             },
             {
-                "dosageform":  "Tab. ",
-                "name":"Metyldopa 250mg",
+                
+                "name":"Tab. Metyldopa 250mg",
                 "quantity":"10",
                 "price":288.99
         
-            }, {
-              "dosageform":  "Tab",
-              "name":"Paracetamol 500mg",
-              "quantity":"18",
-              "price":70
-    
-            },
-            {
-                "dosageform":  "Tab",
-                "name":"Ciprofloxacin 500mg",
-                "quantity":"1",
-                "price":45
-      
-            },
-            {
-                "dosageform":  "Tab",
-                "name":"Metronidazole 200mg",
-                "quantity":"30",
-                "price":110
-      
-              },
-            {
-                "dosageform":  "Tab",
-                "name":"Acetozolamide 250mg",
-                "quantity":"1",
-                "price":29.25
-      
-              },
-              {
-                  "dosageform":  "Tab. ",
-                  "name":"Asprin 75mg",
-                  "quantity":"10",
-                  "price":83.07
-        
-                },
-                {
-                    "dosageform":  "Tab. ",
-                    "name":"Albendazole 200mg",
-                    "quantity":"1",
-                    "price":204.75
-          
-                },
-                {
-                    "dosageform":  "Tab. ",
-                    "name":"Spiranolactone 25mg",
-                    "quantity":"1",
-                    "price":18.72
-            
-                },
-                {
-                    "dosageform":  "Tab. ",
-                    "name":"Metyldopa 250mg",
-                    "quantity":"10",
-                    "price":288.99
-            
-                }, {
-                  "dosageform":  "Tab",
-                  "name":"Paracetamol 500mg",
-                  "quantity":"18",
-                  "price":70
-        
-                },
-                {
-                    "dosageform":  "Tab",
-                    "name":"Ciprofloxacin 500mg",
-                    "quantity":"1",
-                    "price":45
-          
-                },
-                {
-                    "dosageform":  "Tab",
-                    "name":"Metronidazole 200mg",
-                    "quantity":"30",
-                    "price":110
-          
-                  },
-                {
-                    "dosageform":  "Tab",
-                    "name":"Acetozolamide 250mg",
-                    "quantity":"1",
-                    "price":29.25
-          
-                  },
-                  {
-                      "dosageform":  "Tab. ",
-                      "name":"Asprin 75mg",
-                      "quantity":"10",
-                      "price":83.07
-            
-                    },
-                    {
-                        "dosageform":  "Tab. ",
-                        "name":"Albendazole 200mg",
-                        "quantity":"1",
-                        "price":204.75
-              
-                    },
-                    {
-                        "dosageform":  "Tab. ",
-                        "name":"Spiranolactone 25mg",
-                        "quantity":"1",
-                        "price":18.72
-                
-                    },
-                    {
-                        "dosageform":  "Tab. ",
-                        "name":"Metyldopa 250mg",
-                        "quantity":"10",
-                        "price":288.99
-                
-                    }, {
-                      "dosageform":  "Tab",
-                      "name":"Paracetamol 500mg",
-                      "quantity":"18",
-                      "price":70
-            
-                    },
-                    {
-                        "dosageform":  "Tab",
-                        "name":"Ciprofloxacin 500mg",
-                        "quantity":"1",
-                        "price":45
-              
-                    },
-                    {
-                        "dosageform":  "Tab",
-                        "name":"Metronidazole 200mg",
-                        "quantity":"30",
-                        "price":110
-              
-                      },
-                    {
-                        "dosageform":  "Tab",
-                        "name":"Acetozolamide 250mg",
-                        "quantity":"1",
-                        "price":29.25
-              
-                      },
-                      {
-                          "dosageform":  "Tab. ",
-                          "name":"Asprin 75mg",
-                          "quantity":"10",
-                          "price":83.07
-                
-                        },
-                        {
-                            "dosageform":  "Tab. ",
-                            "name":"Albendazole 200mg",
-                            "quantity":"1",
-                            "price":204.75
-                  
-                        },
-                        {
-                            "dosageform":  "Tab. ",
-                            "name":"Spiranolactone 25mg",
-                            "quantity":"1",
-                            "price":18.72
-                    
-                        },
-                        {
-                            "dosageform":  "Tab. ",
-                            "name":"Metyldopa 250mg",
-                            "quantity":"10",
-                            "price":288.99
-                    
-                        }
+            }
     ]
