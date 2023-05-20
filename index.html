@@ -80,7 +80,7 @@
             <datalist id="drugList">
         </datalist>
         <input type="number" placeholder="quantity" id="quantityInput"></input>
-        <button>Add</button>
+        <button id="addButton">Add</button>
         </div>
     </div>
     <div id="main"></div>
@@ -130,6 +130,10 @@
             }
         
            
+        });
+        document.getElementById("addButton").addEventListener('click', function(){
+            document.getElementById("invoice").innerHTML += "Tab. Paracetamol"
+
         });
        
         
