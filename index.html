@@ -46,9 +46,13 @@
             display: none;
         }
         #salar{
+        
             position: relative;
             height: 50%;
             overflow-y: scroll;
+        }
+        #invoice{
+            padding-bottom: 25%;
         }
         #drugInput{
             width: 30%;
@@ -75,8 +79,8 @@
     </div>
     <div id="cal">
         <div id = "invoce">
-            <span>Price</span>
-            <span><input type="number"></span>
+            <span>Total Price</span>
+            <span><input type="number" id ="total"></span>
             <button>clear</button>
             
         </div>
@@ -137,6 +141,7 @@
            
         });
         document.getElementById("addButton").addEventListener('click', function(){
+            document.getElementById("total").value += 20;
             
 
         });
