@@ -74,7 +74,12 @@
 
     </div>
     <div id="cal">
-        <div id = "invoce"></div>
+        <div id = "invoce">
+            <span>Price</span>
+            <span><input type="number"></span>
+            <button>clear</button>
+            
+        </div>
         <div id="salar">
             <input list="drugList" id="drugInput" name="myHouse" placeholder="type here..." />
             <datalist id="drugList">
@@ -132,7 +137,7 @@
            
         });
         document.getElementById("addButton").addEventListener('click', function(){
-            document.getElementById("invoice").innerHTML = "Tab. Paracetamol"
+            
 
         });
        
