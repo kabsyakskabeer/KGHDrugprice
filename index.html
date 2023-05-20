@@ -45,6 +45,12 @@
             background-color: bisque;
             display: none;
         }
+        #salar{
+            position: relative;
+            height: 50%;
+            overflow-y: scroll;
+        }
+
 
     </style>
 </head>
@@ -61,7 +67,23 @@
         <button id="calButton">Calculator</button>
 
     </div>
-    <div id="cal">hhhhhhhhhh</div>
+    <div id="cal">
+        <div id = "invoce"></div>
+        <div id="salar">
+            <input list="magicHouses" id="myHouse" name="myHouse" placeholder="type here..." />
+            <datalist id="magicHouses">
+        <option value="Gryfindor">
+        <option value="Hufflepuff">
+        <option value="Slytherin">
+        <option value="Ravenclaw">
+        <option value="Horned Serpent">
+        <option value="Thunderbird">
+		<option value="Pukwudgie">
+  <option value="Wampus">
+
+</datalist>
+        </div>
+    </div>
     <div id="main"></div>
     <script>
         var myDrugs = [];
