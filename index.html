@@ -85,11 +85,10 @@
             
         </div>
         <div id="salar">
-            <input list="drugList" id="drugInput" name="myHouse" placeholder="type here..." />
-            <datalist id="drugList">
-        </datalist>
-        <input type="number" placeholder="quantity" id="quantityInput"></input>
-        <button id="addButton">Add</button>
+            <input list="drugList" id="drugInput" name="myHouse" placeholder="Drug" />
+            <datalist id="drugList"> </datalist>
+            <input type="number" placeholder="quantity" id="quantityInput"></input>
+            <button id="addButton">Add</button>
         </div>
     </div>
     <div id="main"></div>
@@ -141,7 +140,8 @@
            
         });
         document.getElementById("addButton").addEventListener('click', function(){
-            document.getElementById("total").value += 20;
+            console.log(document.getElementById("drugList").value);
+            document.getElementById("total").value = (20 + document.getElementById("total").value);
             
 
         });
