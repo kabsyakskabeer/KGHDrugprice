@@ -50,6 +50,12 @@
             height: 50%;
             overflow-y: scroll;
         }
+        #drugInput{
+            width: 30%;
+        }
+        #quantityInput{
+            width: 30%;
+        }
 
 
     </style>
@@ -70,10 +76,10 @@
     <div id="cal">
         <div id = "invoce"></div>
         <div id="salar">
-            <input list="magicHouses" id="myHouse" name="myHouse" placeholder="type here..." />
+            <input list="drugList" id="drugInput" name="myHouse" placeholder="type here..." />
             <datalist id="drugList">
         </datalist>
-        <input type="number" placeholder="quantity"></input>
+        <input type="number" placeholder="quantity" id="quantityInput"></input>
         <button>Add</button>
         </div>
     </div>
