@@ -166,9 +166,8 @@
         addButton.addEventListener('click', function(){
          
             let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
-            let x = total.value
             
-            total.value = parseFloat(selectedDrug.price + total.value) * (document.getElementById("quantityInput"));
+            total.value = Number(total.value + selectedDrug.price * quantityInput.value);
           ///  console.log(`${parseFloat(total) + (selectedDrug.price * quantityInput.value)}`);
            
           drugInput.value = null;
