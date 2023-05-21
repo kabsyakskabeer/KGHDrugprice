@@ -167,7 +167,7 @@
          
             let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
             
-            total.value = Number(total.value + (selectedDrug.price * quantityInput.value)); 
+            total.value = (selectedDrug.price * quantityInput.value);
            
            drugInput.value = "";
            quantityInput = 1;
