@@ -170,7 +170,8 @@
         addButton.addEventListener('click', function(){
             drugInput.value = ""
             let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
-            total.value = total.value + (selectedDrug.price * quantityInput.value);
+            console.log(selectedDrug.price);
+           // total.value = total.value + (selectedDrug.price * quantityInput.value);
            
 
         });
