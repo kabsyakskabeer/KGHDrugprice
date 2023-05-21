@@ -131,7 +131,7 @@
             });
         }
         calButton.addEventListener("click", function(){
-            console.log(myDrugs);
+          
             if(cal.style.zIndex == -1){
                 cal.style.zIndex = 1;
                 document.getElementById("main").style.display = "none";
@@ -153,9 +153,16 @@
         });
         let clearDrug = document.getElementById("clearDrug");
         let clearPrice = document.getElementById("clearPrice");
+        let drugInput = document.getElementById("drugInput");
+        let addButton = document.getElementById("addButton");
+    
         clearDrug.addEventListener('click',function(){
             document.getElementById("drugInput").value = ""
 
+
+        });
+        addButton.addEventListener('click', function(){
+            console.log(drugInput.value);
 
         });
 
