@@ -109,8 +109,8 @@
     
         window.onload = function(){
             jsonLoader();   
-            quantityInput.value = 1
-            total.value =0
+            quantityInput.value = 1;
+            total.value =0;
         }
 
         function jsonLoader(){
@@ -155,12 +155,12 @@
         });
     
         clearDrug.addEventListener('click',function(){
-            drugInput.value = ""
+            drugInput.value = "";
 
 
         });
         clearTotal.addEventListener('click',function(){
-            total.value = 0
+            total.value = 0;
 
         });
         addButton.addEventListener('click', function(){
@@ -169,8 +169,8 @@
             //console.log(selectedDrug.price);
             total.value = parseFloat(total.value) + (selectedDrug.price * quantityInput.value);
            
-           drugInput.value = ""
-           quantityInput = null
+           drugInput.value = "";
+           quantityInput = 1;
         });
 
        
