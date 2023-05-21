@@ -117,11 +117,10 @@
                 })
                 .then(prices => {
                    myDrugs = JSON.parse(prices);
-                   console.log(prices);
+                  
                   
                    for (let index = 0; index < myDrugs.length; index++) {
                         const element = myDrugs[index];
-                        console.log(element);
                         theString += `<li> <span id="drug-name">${element.name} </span>  <span id="drug-quantity">  ${element.quantity} </span> <span id="drug-price">${element.price}</span> </li>`;
                         druglist += `<option value="${element.name}">`;
                     }
@@ -132,6 +131,7 @@
             });
         }
         calButton.addEventListener("click", function(){
+            console.log(myDrugs);
             if(cal.style.zIndex == -1){
                 cal.style.zIndex = 1;
                 document.getElementById("main").style.display = "none";
