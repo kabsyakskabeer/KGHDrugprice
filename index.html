@@ -117,10 +117,11 @@
                 })
                 .then(prices => {
                    myDrugs = JSON.parse(prices);
-                   console.log(myDrugs[1]);
+                   console.log(myDrugs);
                   
                    for (let index = 0; index < myDrugs.length; index++) {
                         const element = myDrugs[index];
+                        console.log(element);
                         theString += `<li> <span id="drug-name">${element[0]} </span>  <span id="drug-quantity">  ${element[1]} </span> <span id="drug-price">${element[2]}</span> </li>`;
                         druglist += `<option value="${element.name}">`;
                     }
@@ -167,65 +168,51 @@
 
 
 
-
-
-
-<!-- [
+  
+<!-- {
       
-    
+    "name":"Tab. Metronidazole 200mg",
+    "quantity":"30",
+    "price":110
+
+  },
 {
-   
-   "name":"Tab. Paracetamol 500mg",
-   "quantity":"18",
-   "price":70
-
- },
- {
-     
-     "name":"Tab. Ciprofloxacin 500mg",
-     "quantity":"1",
-     "price":45
-     
-
- },
- {
     
-     "name":"Tab. Metronidazole 200mg",
-     "quantity":"30",
-     "price":110
+    "name":"Tab. Acetozolamide 250mg",
+    "quantity":"1",
+    "price":29.25
 
-   },
- {
-     
-     "name":"Tab. Acetozolamide 250mg",
-     "quantity":"1",
-     "price":29.25
+  },
+  {
+      "name":"Tab. Asprin 75mg",
+      "quantity":"10",
+      "price":83.07
 
-   },
-   {
-       "name":"Tab. Asprin 75mg",
-       "quantity":"10",
-       "price":83.07
+    },
+    {
+        "name":"Tab. Albendazole 200mg",
+        "quantity":"1",
+        "price":204.75
 
-     },
-     {
-         "name":"Tab. Albendazole 200mg",
-         "quantity":"1",
-         "price":204.75
+    },
+    {
+        
+        "name":"Tab. Spiranolactone 25mg",
+        "quantity":"1",
+        "price":18.72
 
-     },
-     {
-         
-         "name":"Tab. Spiranolactone 25mg",
-         "quantity":"1",
-         "price":18.72
- 
-     },
-     {
-         
-         "name":"Tab. Metyldopa 250mg",
-         "quantity":"10",
-         "price":288.99
- 
-     }
-] -->
+    },
+    {
+        
+        "name":"Tab. Metyldopa 250mg",
+        "quantity":"10",
+        "price":288.99
+
+    } -->
+
+
+
+
+
+
+

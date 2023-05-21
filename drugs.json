@@ -1,4 +1,11 @@
-{
-  "tabparacetamol500mg":["Tab Paracetamol 500mg",1,3],
-  "tabciprofloxacin500mg":["Tab Ciprofloxacin 500mg",1,45]
-}
+[
+    
+  
+  {
+  "tabparacetamol500mg":["Tab. Paracetamol 500mg",18,70]
+   },
+   {
+       
+  "tabciprofoxacin500mg":["Tab. Ciprofloxacin 500mg",1,45]}
+  
+  ]
