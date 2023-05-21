@@ -83,7 +83,7 @@
         <div id = "invoice">
             <span>Total Price</span>
             <span><input type="number" id ="total"></span>
-            <button id="clearPrice">clear</button>
+            <button id="clearTotal">clear</button>
             
         </div>
         <div id="salar">
@@ -152,18 +152,26 @@
 
         });
         let clearDrug = document.getElementById("clearDrug");
-        let clearPrice = document.getElementById("clearPrice");
+        let clearTotal = document.getElementById("clearTotal");
         let drugInput = document.getElementById("drugInput");
         let addButton = document.getElementById("addButton");
+        let quantityInput = document.getElementById("quantityInput");
+        let total = document.getElementById("total");
     
         clearDrug.addEventListener('click',function(){
-            document.getElementById("drugInput").value = ""
+            drugInput.value = ""
 
 
         });
+        clearTotal.addEventListener('click',function(){
+            total.value = 0
+
+        });
         addButton.addEventListener('click', function(){
+            drugInput.value = ""
             let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
-            console.log(`price =  ${selectedDrug.price} `);
+            total.value = total.value + (selectedDrug.price * quantityInput.value);
+           
 
         });
 
