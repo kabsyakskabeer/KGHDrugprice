@@ -162,7 +162,8 @@
 
         });
         addButton.addEventListener('click', function(){
-            console.log(drugInput.value);
+            let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
+            console.log(`price =  ${selectedDrug.price} `);
 
         });
 
