@@ -1,11 +1,42 @@
 [
-    
-  
   {
-  "tabparacetamol500mg":["Tab. Paracetamol 500mg",18,70]
-   },
-   {
-       
-  "tabciprofoxacin500mg":["Tab. Ciprofloxacin 500mg",1,45]}
-  
-  ]
+      
+    "name":"Tab. Metronidazole 200mg",
+    "quantity":"30",
+    "price":110
+
+  },
+{
+    
+    "name":"Tab. Acetozolamide 250mg",
+    "quantity":"1",
+    "price":29.25
+
+  },
+  {
+      "name":"Tab. Asprin 75mg",
+      "quantity":"10",
+      "price":83.07
+
+    },
+    {
+        "name":"Tab. Albendazole 200mg",
+        "quantity":"1",
+        "price":204.75
+
+    },
+    {
+        
+        "name":"Tab. Spiranolactone 25mg",
+        "quantity":"1",
+        "price":18.72
+
+    },
+    {
+        
+        "name":"Tab. Metyldopa 250mg",
+        "quantity":"10",
+        "price":288.99
+
+    }
+]

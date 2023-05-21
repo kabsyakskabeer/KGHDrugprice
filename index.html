@@ -117,13 +117,13 @@
                 })
                 .then(prices => {
                    myDrugs = JSON.parse(prices);
-                   console.log(myDrugs);
+                   console.log(prices);
                   
                    for (let index = 0; index < myDrugs.length; index++) {
                         const element = myDrugs[index];
                         console.log(element);
-                        theString += `<li> <span id="drug-name">${element} </span>  <span id="drug-quantity">  ${element} </span> <span id="drug-price">${element}</span> </li>`;
-                        druglist += `<option value="${element}">`;
+                        theString += `<li> <span id="drug-name">${element.name} </span>  <span id="drug-quantity">  ${element.quantity} </span> <span id="drug-price">${element.price}</span> </li>`;
+                        druglist += `<option value="${element.name}">`;
                     }
                    
                    
@@ -169,46 +169,7 @@
 
 
   
-<!-- {
-      
-    "name":"Tab. Metronidazole 200mg",
-    "quantity":"30",
-    "price":110
 
-  },
-{
-    
-    "name":"Tab. Acetozolamide 250mg",
-    "quantity":"1",
-    "price":29.25
-
-  },
-  {
-      "name":"Tab. Asprin 75mg",
-      "quantity":"10",
-      "price":83.07
-
-    },
-    {
-        "name":"Tab. Albendazole 200mg",
-        "quantity":"1",
-        "price":204.75
-
-    },
-    {
-        
-        "name":"Tab. Spiranolactone 25mg",
-        "quantity":"1",
-        "price":18.72
-
-    },
-    {
-        
-        "name":"Tab. Metyldopa 250mg",
-        "quantity":"10",
-        "price":288.99
-
-    } -->
 
 
 
