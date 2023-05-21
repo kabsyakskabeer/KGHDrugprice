@@ -155,7 +155,7 @@
         });
     
         clearDrug.addEventListener('click',function(){
-            drugInput.value = "";
+            drugInput.value = null;
 
 
         });
@@ -170,8 +170,12 @@
             
             total.value = x + (selectedDrug.price * quantityInput.value);
            
-           drugInput.value = "";
+          drugInput.value = null;
            quantityInput = 1;
+        });
+        drugInput.addEventListener('onchange',function(){
+            drugInput.onchange;
+
         });
 
        
