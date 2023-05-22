@@ -67,7 +67,6 @@
     </style>
 </head>
 <body>
-    <a href="#Tab. Metronidazole 200mg">linkier</a>
     <div id="heading"> 
         <!-- <select name="dsforms" id="DSF">
         <option value="Tab">Tablet</option>
@@ -141,7 +140,8 @@
                    
                    
                 document.getElementById("main").innerHTML = `<ol> ${theString} </ol>`;  
-                document.getElementById("drugList").innerHTML = druglist;     
+                document.getElementById("drugList").innerHTML = druglist; 
+                document.getElementById("searchList").innerHTML = sList;    
             });
         }
         calButton.addEventListener("click", function(){
