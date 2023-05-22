@@ -169,6 +169,10 @@
             let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
             
             total.innerText = selectedDrug.price * quantityInput.value;
+            console.log("ooooooooooooooooo");
+            console.log(`Total = ${total.innerText}`);
+            console.log(`selected Drug price = ${selectedDrug.price}`);
+            console.log(`Quantity = ${quantityInput.value}`);
          
             drugInput.value = null;
             quantityInput = 0;
