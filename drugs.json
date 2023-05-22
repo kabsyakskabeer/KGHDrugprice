@@ -1,11 +1,5 @@
 [
-  {
-      
-    "name":"Tab. Metronidazole 200mg",
-    "quantity":"30",
-    "price":110
-
-  },
+ 
 {
     
     "name":"Tab. Acetozolamide 250mg",
@@ -123,6 +117,150 @@
     "name":"Soln. Phenobarbitone",
     "quantity":1,
     "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  },{
+      
+    "name":"Tab. Metronidazole 200mg",
+    "quantity":"30",
+    "price":110
 
   }
 ]
