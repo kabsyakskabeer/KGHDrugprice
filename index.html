@@ -57,10 +57,10 @@
             padding-bottom: 25%;
         }
         #drugInput{
-            width: 40%;
+            width: 30%;
         }
         #quantityInput{
-            width: 20%;
+            width: 30%;
         }
 
 
@@ -82,7 +82,7 @@
     <div id="cal">
         <div id = "invoice">
             <span>Total Price</span>
-            <span><input placeholder="0" id="total"/></span>
+            <span><input type="number" placeholder="0" id="total"/></span>
             <button id="clearTotal">clear</button>
             
         </div>
@@ -90,13 +90,13 @@
             <button id ="clearDrug">clear</button>
             <input list="drugList" id="drugInput" name="myHouse" placeholder="Drug" />
             <datalist id="drugList"> </datalist>
-            <input type="number" id="quantityInput" placeholder="quantity"></input>
+            <input id="quantityInput" placeholder="quantity"></input>
             <button id="addButton">Add</button>
         </div>
     </div>
     <div id="main"></div>
     <script>
-        let lamba = 0;
+        var lamba = 0;
         var myDrugs = [];
         let cal = document.getElementById('cal');
         let calButton = document.getElementById("calButton");
@@ -161,23 +161,20 @@
 
         });
         clearTotal.addEventListener('click',function(){
-            total.value = null;
+            total.value = 0;
 
         });
         addButton.addEventListener('click', function(){
          
             let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
             let mult = selectedDrug.price * quantityInput.value;
-
             lamba += mult; 
             total.value = lamba;
-            console.log(total.value);
-            console.log(mult);
-            console.log(lamba);
-            console.log(quantityInput.value);
-
-
-            quantityInput = null;
+            console.log("ooooooooooooooooo");
+            console.log(`Total = ${total.value}`);
+            console.log(`multi = ${mult}`);
+            console.log(`selected Drug price = ${selectedDrug.price}`);
+            console.log(`Quantity = ${quantityInput.value}`);
          
             drugInput.value = null;
 
