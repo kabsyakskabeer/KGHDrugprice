@@ -38,5 +38,91 @@
         "quantity":"10",
         "price":288.99
 
-    }
+    },
+    {
+        
+      "name":"Tab. Chlorpropromazine 100mg",
+      "quantity":1,
+      "price":20
+
+    },
+    {
+        
+      "name":"Tab. Carbamazepine 200mg",
+      "quantity":1,
+      "price":23
+
+   },{
+        
+    "name":"Tab. Haloperidol 5mg",
+    "quantity":1,
+    "price":12
+
+  },{
+        
+    "name":"Tab. Haloperidol 10mg",
+    "quantity":1,
+    "price":14
+
+  },{
+        
+    "name":"Tab. Benzhexol 5mg",
+    "quantity":1,
+    "price":7
+
+  },{
+        
+    "name":"Tab. Amitriptyline 25mg",
+    "quantity":1,
+    "price":9
+
+  },{
+        
+    "name":"Tab. Phenobarbitone 30mg",
+    "quantity":1,
+    "price":14
+
+  },{
+        
+    "name":"Tab. Escitalopram ",
+    "quantity":1,
+    "price":10
+
+  },{
+        
+    "name":"Tab. Trifluoperazine 5mg",
+    "quantity":1,
+    "price":11
+
+  },{
+        
+    "name":"Inj. Haloperidol 5mg",
+    "quantity":1,
+    "price":138
+
+  },{
+        
+    "name":"Inj. Fluphenazine 25mg/ml",
+    "quantity":1,
+    "price":204
+
+  },{
+        
+    "name":"Inj. Chlorpromazine 50mg/2ml",
+    "quantity":1,
+    "price":34
+
+  },{
+        
+    "name":"Inj. Phenobarbitone ",
+    "quantity":1,
+    "price":0
+
+  },{
+        
+    "name":"Soln. Phenobarbitone",
+    "quantity":1,
+    "price":340
+
+  }
 ]
