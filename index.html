@@ -57,7 +57,7 @@
             padding-bottom: 25%;
         }
         #drugInput{
-            width: 50%;
+            width: 40%;
         }
         #quantityInput{
             width: 20%;
@@ -90,7 +90,7 @@
             <button id ="clearDrug">clear</button>
             <input list="drugList" id="drugInput" name="myHouse" placeholder="Drug" />
             <datalist id="drugList"> </datalist>
-            <input id="quantityInput" placeholder="quantity"></input>
+            <input type="number" id="quantityInput" placeholder="quantity"></input>
             <button id="addButton">Add</button>
         </div>
     </div>
@@ -165,12 +165,7 @@
 
         });
         addButton.addEventListener('click', function(){
-            if(quantityInput == null){
-                window.alert("QUANTITY EMPTY");
-            }
-            if(drugInput == null){
-                alert("DRUG EMPTY");
-            }
+           
             let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
             let mult = selectedDrug.price * quantityInput.value;
             lamba += mult; 
