@@ -168,7 +168,7 @@
          
             let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
             
-            total.innerHTML = Number( parseFoat(total.innerHTML) + lamba+selectedDrug.price * quantityInput.value);
+            total.innerHTML = Number( parseFloat(total.innerHTML) + lamba+selectedDrug.price * quantityInput.value);
           ///  console.log(`${parseFloat(total) + (selectedDrug.price * quantityInput.value)}`);
            //lamba = total.value
           drugInput.value = null;
