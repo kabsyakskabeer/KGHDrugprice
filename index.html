@@ -82,7 +82,7 @@
     <div id="cal">
         <div id = "invoice">
             <span>Total Price</span>
-            <span><input type="number" placeholder="0" id="total"/></span>
+            <span><input placeholder="0" id="total"/></span>
             <button id="clearTotal">clear</button>
             
         </div>
@@ -96,7 +96,7 @@
     </div>
     <div id="main"></div>
     <script>
-        var lamba = 0;
+        let lamba = 0;
         var myDrugs = [];
         let cal = document.getElementById('cal');
         let calButton = document.getElementById("calButton");
@@ -168,9 +168,11 @@
          
             let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
             let mult = selectedDrug.price * quantityInput.value;
+
             lamba += mult; 
             total.value = lamba;
-            
+
+
             quantityInput = null;
          
             drugInput.value = null;
