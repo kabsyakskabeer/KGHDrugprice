@@ -135,14 +135,13 @@
                   
                    for (let index = 0; index < myDrugs.length; index++) {
                         const element = myDrugs[index];
-                        theString += `<li id=${element.name}> <span id="drug-name">${element.name} </span>  <span id="drug-quantity">  ${element.quantity} </span> <span id="drug-price">${element.price}</span> </li>`;
+                        theString += `<li id=${(element.name).replace(/\s/g, '')}> <span id="drug-name">${element.name} </span>  <span id="drug-quantity">  ${element.quantity} </span> <span id="drug-price">${element.price}</span> </li>`;
                         druglist += `<option value="${element.name}">`;   
                     }
                    
                    
                 document.getElementById("main").innerHTML = `<ol> ${theString} </ol>`;  
-                document.getElementById("drugList").innerHTML = druglist; 
-                document.getElementById("searchList").innerHTML = sList;    
+                document.getElementById("drugList").innerHTML = druglist;    
             });
         }
         calButton.addEventListener("click", function(){
@@ -189,7 +188,8 @@
 
         });
         searchInput.addEventListener('change', function(){
-            searcher.href = `#${this.value}`;
+            searcher.href = `#${(this.value).replace(/\s/g, '')}`;
+            console.log(`#${(this.value).replace(/\s/g, '')}`);
         });
 
        
