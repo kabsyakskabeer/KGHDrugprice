@@ -77,7 +77,7 @@
         <option value="Others">Others</option>
         </select> -->
         <input list="drugList" id="searchInput"/>
-        <button><a id="searcher">search</a></button>
+        <button id="searchButton"><a id="searcher">search</a></button>
         <button id="calButton">Calculator</button>
 
     </div>
@@ -110,6 +110,7 @@
         let total = document.getElementById("total");
         let searchInput = document.getElementById("searchInput");
         let searcher = document.getElementById("searcher");
+        let searchButton = document.getElementById("searchButton");
         
     
         window.onload = function(){
@@ -189,7 +190,10 @@
         });
         searchInput.addEventListener('change', function(){
             searcher.href = `#${(this.value).replace(/\s/g, '')}`;
-            console.log(`#${(this.value).replace(/\s/g, '')}`);
+           // console.log(`#${(this.value).replace(/\s/g, '')}`);
+        });
+        searchButton.addEventListener("click",function(){
+            searchInput.value = "";
         });
 
        
