@@ -168,11 +168,10 @@
          
             let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
             
-            total.innerText =  parseFloat(total.innerText) + selectedDrug.price * quantityInput.value;
-          ///  console.log(`${parseFloat(total) + (selectedDrug.price * quantityInput.value)}`);
-           //lamba = total.value
-          drugInput.value = null;
-           quantityInput = 1;
+            total.innerText *= selectedDrug.price * quantityInput.value;
+         
+            drugInput.value = null;
+            quantityInput = 1;
 
         });
         drugInput.addEventListener('onchange',function(){
