@@ -77,6 +77,7 @@
         <option value="Others">Others</option>
         </select> -->
         <input list="drugList"\>
+        <datalist id="searchList"> </datalist>
         <button id="calButton">Calculator</button>
 
     </div>
@@ -118,6 +119,7 @@
         function jsonLoader(){
             let theString ="";
             let druglist = "";
+            let sList = "";
             fetch('drugs.json')
                 .then(response => {
                     if (!response.ok) {
@@ -133,6 +135,7 @@
                         const element = myDrugs[index];
                         theString += `<li id=${element.name}> <span id="drug-name">${element.name} </span>  <span id="drug-quantity">  ${element.quantity} </span> <span id="drug-price">${element.price}</span> </li>`;
                         druglist += `<option value="${element.name}">`;
+                        sList += `<option value="<a href="#${element.name}">${element.name}</a>">`;    
                     }
                    
                    
