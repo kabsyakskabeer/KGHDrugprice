@@ -110,8 +110,8 @@
     
         window.onload = function(){
             jsonLoader();   
-            quantityInput.value = 1;
-            total.value =0;
+          //  quantityInput.value = 0;
+           // total.value =0;
         }
 
         function jsonLoader(){
@@ -168,8 +168,8 @@
          
             let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
             let mult = selectedDrug.price * quantityInput.value;
-            
-            total.value = total.value + selectedDrug.price * quantityInput.value;
+            lamba += mult; 
+            total.value = lamba;
             console.log("ooooooooooooooooo");
             console.log(`Total = ${total.value}`);
             console.log(`multi = ${mult}`);
