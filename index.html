@@ -90,7 +90,7 @@
             <button id ="clearDrug">clear</button>
             <input list="drugList" id="drugInput" name="myHouse" placeholder="Drug" />
             <datalist id="drugList"> </datalist>
-            <input id="quantityInput" placeholder="quantity"></input>
+            <input type="number" id="quantityInput" placeholder="quantity"></input>
             <button id="addButton">Add</button>
         </div>
     </div>
@@ -162,6 +162,7 @@
         });
         clearTotal.addEventListener('click',function(){
             total.value = 0;
+            lamba =0;
 
         });
         addButton.addEventListener('click', function(){
