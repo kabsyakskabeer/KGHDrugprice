@@ -82,7 +82,7 @@
     <div id="cal">
         <div id = "invoice">
             <span>Total Price</span>
-            <span><input type="number" id ="total"></span>
+            <span id ="total"></span>
             <button id="clearTotal">clear</button>
             
         </div>
@@ -168,9 +168,9 @@
          
             let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
             
-            total.value = Number(lamba+selectedDrug.price * quantityInput.value);
+            total.innerHTML = Number( parseFoat(total.innerHTML) + lamba+selectedDrug.price * quantityInput.value);
           ///  console.log(`${parseFloat(total) + (selectedDrug.price * quantityInput.value)}`);
-           lamba = total.value
+           //lamba = total.value
           drugInput.value = null;
            quantityInput = 1;
 
