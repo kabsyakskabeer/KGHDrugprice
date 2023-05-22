@@ -76,8 +76,8 @@
         <option value="cons">Consumables</option>
         <option value="Others">Others</option>
         </select> -->
-        <input list="searchList"/>
-        <datalist id="searchList"> </datalist>
+        <input list="drugList" id="searchInput"/>
+        <button><a id="searcher">search</a></button>
         <button id="calButton">Calculator</button>
 
     </div>
@@ -108,6 +108,8 @@
         let addButton = document.getElementById("addButton");
         let quantityInput = document.getElementById("quantityInput");
         let total = document.getElementById("total");
+        let searchInput = document.getElementById("searchInput");
+        let searcher = document.getElementById("searcher");
         
     
         window.onload = function(){
@@ -134,8 +136,7 @@
                    for (let index = 0; index < myDrugs.length; index++) {
                         const element = myDrugs[index];
                         theString += `<li id=${element.name}> <span id="drug-name">${element.name} </span>  <span id="drug-quantity">  ${element.quantity} </span> <span id="drug-price">${element.price}</span> </li>`;
-                        druglist += `<option value="${element.name}">`;
-                        sList += `<option value="<a href="#${element.name}">${element.name}</a>">`;    
+                        druglist += `<option value="${element.name}">`;   
                     }
                    
                    
@@ -186,6 +187,9 @@
             quantityInput.value = null;
 
 
+        });
+        searchInput.addEventListener('change', function(){
+            searcher.href = `#${this.value}`;
         });
 
        
