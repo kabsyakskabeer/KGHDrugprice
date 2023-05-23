@@ -119,5 +119,155 @@
     "quantity":"30",
     "price":110
 
+  },{
+      
+    "name":"Inj. Adrenaline ",
+    "quantity":1,
+    "price":175.5
+
+  },{
+      
+    "name":"Inj. Arteether",
+    "quantity":1,
+    "price":264.03
+
+  },{
+      
+    "name":"Inj. Aminophylline 10ml",
+    "quantity":1,
+    "price":79.56
+
+  },{
+      
+    "name":"Inj. Amoxicillin 500mg",
+    "quantity":1,
+    "price":299.52
+
+  },{
+      
+    "name":"Inj. Ampiclox 500mg",
+    "quantity":1,
+    "price":313.56
+
+  },{
+      
+    "name":"Inj. Antirabies",
+    "quantity":1,
+    "price":9945
+
+  },{
+      
+    "name":"Inj. Antisnake Venom",
+    "quantity":1,
+    "price":20995.65
+
+  },{
+      
+    "name":"Inj. Artesunate ",
+    "quantity":1,
+    "price":629.46
+
+  },{
+      
+    "name":"Inj. Artemether 80mg/ml",
+    "quantity":1,
+    "price":59.67
+
+  },{
+      
+    "name":"Inj. Atropine",
+    "quantity":1,
+    "price":100
+
+  },{
+      
+    "name":"Inj. Augmentin 1.2g",
+    "quantity":1,
+    "price":870
+
+  },{
+      
+    "name":"Inj. Augmentin 600mg",
+    "quantity":1,
+    "price":0
+
+  },{
+      
+    "name":"Inj. Bupivacaine(Heavy) ",
+    "quantity":1,
+    "price":428.22
+
+  },{
+      
+    "name":"Inj. Calcium gluconate",
+    "quantity":1,
+    "price":117
+
+  },{
+      
+    "name":"Inj. Ceftriazone(Xoxone)",
+    "quantity":1,
+    "price":725.4
+
+  },{
+      
+    "name":"Inj. Ceftriazone",
+    "quantity":1,
+    "price":519.48
+
+  },{
+      
+    "name":"Inj. Ceftriazone(Rochephin)",
+    "quantity":1,
+    "price":0
+
+  },{
+      
+    "name":"Inj. Cefuroxime 750mg",
+    "quantity":1,
+    "price":432.9
+
+  },{
+      
+    "name":"Inj. Cimetidine",
+    "quantity":1,
+    "price":58.5
+
+  },{
+      
+    "name":"Inj. Ciprofloxacin",
+    "quantity":1,
+    "price":269.1
+
+  },{
+      
+    "name":"Inj. Dextrose Water 50%",
+    "quantity":1,
+    "price":567.45
+
+  },{
+      
+    "name":"Inj. Dextrose Saline 4.3%",
+    "quantity":1,
+    "price":567.45
+
+  },{
+      
+    "name":"Inj. Dextrose Saline 5%",
+    "quantity":1,
+    "price":567.45
+
+  },{
+      
+    "name":"Inj. Dextrose water 10%",
+    "quantity":1,
+    "price":567.45
+
+  },{
+      
+    "name":"Inj. Dextrose water 5%",
+    "quantity":1,
+    "price":567.45
+
   }
 ]
