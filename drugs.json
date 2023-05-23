@@ -269,5 +269,83 @@
     "quantity":1,
     "price":567.45
 
+  },{
+      
+    "name":"Inj. Dexamethasone",
+    "quantity":1,
+    "price":50.31
+
+  },{
+      
+    "name":"Inj. Diazepam(valium)",
+    "quantity":1,
+    "price":526.5
+
+  },{
+      
+    "name":"Inj. Diazepam",
+    "quantity":1,
+    "price":100.62
+
+  },{
+      
+    "name":"Inj. Diclofenac 75mg",
+    "quantity":1,
+    "price":40.95
+
+  },{
+      
+    "name":"Inj. Egometrine",
+    "quantity":1,
+    "price":257.4
+
+  },{
+      
+    "name":"Inj. Frusemide",
+    "quantity":1,
+    "price":28.08
+
+  },{
+      
+    "name":"Inj. Full Strength Darrows",
+    "quantity":1,
+    "price":567.45
+
+  },{
+      
+    "name":"Inj. Gentamicin",
+    "quantity":1,
+    "price":28.08
+
+  },{
+      
+    "name":"Inj. Half Strength Darrows",
+    "quantity":1,
+    "price":567.45
+
+  },{
+      
+    "name":"Inj. Halothane",
+    "quantity":1,
+    "price":29000.79
+
+  },{
+      
+    "name":"Inj. Hydrallazine",
+    "quantity":1,
+    "price":121.68
+
+  },{
+      
+    "name":"Inj. Hydrocortisone",
+    "quantity":1,
+    "price":169.65
+
+  },{
+      
+    "name":"Inj. Hyoscine",
+    "quantity":1,
+    "price":107.64
+
   }
 ]
