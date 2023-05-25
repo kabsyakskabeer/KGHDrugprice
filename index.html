@@ -123,7 +123,7 @@
             let theString ="";
             let druglist = "";
             let sList = "";
-            fetch('drugs.json')
+            fetch('drug.json')
                 .then(response => {
                     if (!response.ok) {
                         throw new Error("HTTP error " + response.status);
@@ -136,8 +136,8 @@
                   
                    for (let index = 0; index < myDrugs.length; index++) {
                         const element = myDrugs[index];
-                        theString += `<li id=${(element.name).replace(/\s/g, '')}> <span id="drug-name">${element.name} </span>  <span id="drug-quantity">  ${element.quantity} </span> <span id="drug-price">${element.price}</span> </li>`;
-                        druglist += `<option value="${element.name}">`;   
+                        theString += `<li id=${(element[0]).replace(/\s/g, '')}> <span id="drug-name">${element[0]} </span>  <span id="drug-quantity">  ${element[1]} </span> <span id="drug-price">${element[2]}</span> </li>`;
+                        druglist += `<option value="${element[0]}">`;   
                     }
                    
                    
