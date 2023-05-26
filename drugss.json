@@ -1,0 +1,3498 @@
+[
+    {
+        "name":
+        "Inj. ADRENALINE",
+        "cost":150,
+        "price":
+        177
+        
+      },
+      {
+        "name":
+        "Inj. ALPHA BETA (EMAL)",
+        "cost":
+        677,
+        "price":
+        798.86
+      },
+      {
+        "name":
+        "Inj. AMINOPHYLLINE 10ML",
+        "cost":
+        60,
+        "price":
+        70.8
+      },
+      {
+        "name":
+        "Inj. AMOXYL 500MG ",
+        "cost":
+        227,
+        "price":
+        267.86
+      },
+      {
+        "name":
+        "Inj. AMPICLOX  500MG",
+        "cost":
+        268,
+        "price":
+        316.24
+      },
+      {
+        "name":
+        "Inj. ANTI RABIES",
+        "cost":
+        8500,
+        "price":
+        10030
+      },
+      {
+        "name":
+        "Inj. ANTISNAKE VENOM",
+        "cost":
+        13500,
+        "price":
+        15930
+      },
+      {
+        "name":
+        "Inj. ARTESUNATE",
+        "cost":
+        538,
+        "price":
+        634.8399999999999
+      },
+      {
+        "name":
+        "Inj. ARTEMETHER",
+        "cost":
+        49,
+        "price":
+        57.82
+      },
+      {
+        "name":
+        "Inj. ATROPINE",
+        "cost":
+        70,
+        "price":
+        82.6
+      },
+      {
+        "name":
+        "Inj. AUGMENTINE 1.2G",
+        "cost":
+        900,
+        "price":
+        1062
+      },
+      {
+        "name":
+        "Inj. AUGMENTINE 600MG",
+        "cost":
+        0,
+        "price":
+        0
+      },
+      {
+        "name":
+        "Inj. BUPIVACAINE (Heavy)",
+        "cost":
+        366,
+        "price":
+        431.88
+      },
+      {
+        "name":
+        "Inj. CALCIUM GLUCONATE",
+        "cost":
+        100,
+        "price":
+        118
+      },
+      {
+        "name":
+        "Inj. CEFTRIAZONE (ALFAZONE)",
+        "cost":
+        323,
+        "price":
+        381.14
+      },
+      {
+        "name":
+        "Inj. CEFTRIAZONE (ZOXONE)",
+        "cost":
+        620,
+        "price":
+        731.5999999999999
+      },
+      {
+        "name":
+        "Inj. CEFTRIAZONE (ROCEPHIN)",
+        "cost":
+        0,
+        "price":
+        0
+      },
+      {
+        "name":
+        "Inj. CEFUROXIME 750MG",
+        "cost":
+        370,
+        "price":
+        436.59999999999997
+      },
+      {
+        "name":
+        "Inj. CIMETIDINE",
+        "cost":
+        45,
+        "price":
+        53.099999999999994
+      },
+      {
+        "name":
+        "Inj. CIPROFLOXACIN",
+        "cost":
+        220,
+        "price":
+        259.59999999999997
+      },
+      {
+        "name":
+        "Inj. D/ WATER 50%",
+        "cost":
+        485,
+        "price":
+        572.3
+      },
+      {
+        "name":
+        "Inj. D/SALINE 4.3%",
+        "cost":
+        485,
+        "price":
+        572.3
+      },
+      {
+        "name":
+        "Inj. D/SALINE 5%",
+        "cost":
+        485,
+        "price":
+        572.3
+      },
+      {
+        "name":
+        "Inj. D/WATER 10%",
+        "cost":
+        485,
+        "price":
+        572.3
+      },
+      {
+        "name":
+        "Inj. D/WATER 5%",
+        "cost":
+        485,
+        "price":
+        572.3
+      },
+      {
+        "name":
+        "Inj. DEXAMETHASONE",
+        "cost":
+        43,
+        "price":
+        50.739999999999995
+      },
+      {
+        "name":
+        "Inj. DIAZEPAM (valium)",
+        "cost":
+        450,
+        "price":
+        531
+      },
+      {
+        "name":
+        "Inj. DIAZEPAM",
+        "cost":
+        86,
+        "price":
+        101.47999999999999
+      },
+      {
+        "name":
+        "Inj. DICLOFENAC",
+        "cost":
+        35,
+        "price":
+        41.3
+      },
+      {
+        "name":
+        "Inj. EGOMETRINE",
+        "cost":
+        220,
+        "price":
+        259.59999999999997
+      },
+      {
+        "name":
+        "Inj. FRUSEMIDE",
+        "cost":
+        24,
+        "price":
+        28.32
+      },
+      {
+        "name":
+        "Inj. FULL STRENGH DARROWS",
+        "cost":
+        485,
+        "price":
+        572.3
+      },
+      {
+        "name":
+        "Inj. GENTAMICIN",
+        "cost":
+        24,
+        "price":
+        28.32
+      },
+      {
+        "name":
+        "Inj. HALF STRENGH DARROWS",
+        "cost":
+        485,
+        "price":
+        572.3
+      },
+      {
+        "name":
+        "Inj. HALOTHANE",
+        "cost":
+        23650,
+        "price":
+        27907
+      },
+      {
+        "name":
+        "Inj. HYDRALLAZINE",
+        "cost":
+        104,
+        "price":
+        122.72
+      },
+      {
+        "name":
+        "Inj. HYDROCORTISONE",
+        "cost":
+        145,
+        "price":
+        171.1
+      },
+      {
+        "name":
+        "Inj. HYOSCINE",
+        "cost":
+        92,
+        "price":
+        108.55999999999999
+      },
+      {
+        "name":
+        "Inj. INSULIN MIXTURE (Mixtard)",
+        "cost":
+        3535,
+        "price":
+        4171.3
+      },
+      {
+        "name":
+        "Inj. KETAMINE",
+        "cost":
+        2365,
+        "price":
+        2790.7
+      },
+      {
+        "name":
+        "Inj. LIDOCAINE",
+        "cost":
+        500,
+        "price":
+        590
+      },
+      {
+        "name":
+        "Inj. LIDOCAINE/ADRENALINE",
+        "cost":
+        580,
+        "price":
+        684.4
+      },
+      {
+        "name":
+        "Inj. MAGNESIUM SULPHATE",
+        "cost":
+        280,
+        "price":
+        330.4
+      },
+      {
+        "name":
+        "Inj. MANNITOL 10%",
+        "cost":
+        665,
+        "price":
+        784.6999999999999
+      },
+      {
+        "name":
+        "Inj. MANNITOL 20%",
+        "cost":
+        667,
+        "price":
+        787.06
+      },
+      {
+        "name":
+        "Inj. METHYL ERGOMETRINE 0.2ml",
+        "cost":
+        0,
+        "price":
+        0
+      },
+      {
+        "name":
+        "Inj. METOCLOPRAMIDE",
+        "cost":
+        33,
+        "price":
+        38.94
+      },
+      {
+        "name":
+        "Inj. METRONIDAZOLE",
+        "cost":
+        212,
+        "price":
+        250.16
+      },
+      {
+        "name":
+        "Inj. N/SALINE",
+        "cost":
+        485,
+        "price":
+        572.3
+      },
+      {
+        "name":
+        "Inj. NEBULES SALBUTAMOL 5MG",
+        "cost":
+        350,
+        "price":
+        413
+      },
+      {
+        "name":
+        "Inj. OFLOXACIN",
+        "cost":
+        0,
+        "price":
+        0
+      },
+      {
+        "name":
+        "Inj. OMEPRAZOLE",
+        "cost":
+        377,
+        "price":
+        444.85999999999996
+      },
+      {
+        "name":
+        "Inj. OXYTOCIN  (juhel)",
+        "cost":
+        120,
+        "price":
+        141.6
+      },
+      {
+        "name":
+        "Inj. OXYTOCIN",
+        "cost":
+        90,
+        "price":
+        106.19999999999999
+      },
+      {
+        "name":
+        "Inj. PARACETAMOL",
+        "cost":
+        30,
+        "price":
+        35.4
+      },
+      {
+        "name":
+        "Inj. PARALDEHYDE",
+        "cost":
+        225,
+        "price":
+        265.5
+      },
+      {
+        "name":
+        "Inj. PIROXICAM",
+        "cost":
+        0,
+        "price":
+        0
+      },
+      {
+        "name":
+        "Inj. PENTAZOCINE",
+        "cost":
+        160,
+        "price":
+        188.79999999999998
+      },
+      {
+        "name":
+        "Inj. PHENOBARBITONE",
+        "cost":
+        734,
+        "price":
+        866.12
+      },
+      {
+        "name":
+        "Inj. PROMETHAZINE",
+        "cost":
+        26,
+        "price":
+        30.68
+      },
+      {
+        "name":
+        "Inj. PYTOMENADIONE (Vit K)",
+        "cost":
+        145,
+        "price":
+        171.1
+      },
+      {
+        "name":
+        "Inj. QUININE",
+        "cost":
+        0,
+        "price":
+        0
+      },
+      {
+        "name":
+        "Inj. R/LACTATE",
+        "cost":
+        485,
+        "price":
+        572.3
+      },
+      {
+        "name":
+        "Inj. RANITIDINE",
+        "cost":
+        0,
+        "price":
+        0
+      },
+      {
+        "name":
+        "Inj. SOLUBLE INSULIN",
+        "cost":
+        0,
+        "price":
+        0
+      },
+      {
+        "name":
+        "Inj. SULBACEF 1.5G",
+        "cost":
+        0,
+        "price":
+        0
+      },
+      {
+        "name":
+        "Inj. SULBAXONE 1.5G",
+        "cost":
+        515,
+        "price":
+        607.6999999999999
+      },
+      {
+        "name":
+        "Inj. T.T",
+        "cost":
+        0,
+        "price":
+        0
+      },
+      {
+        "name":
+        "Inj. VIT B COMPLEX",
+        "cost":
+        130,
+        "price":
+        153.4
+      },
+      {
+        "name":
+        "Inj. Pot. Chloride",
+        "cost":
+        0,
+        "price":
+        0
+      },
+      {
+        "name":
+        "Susp. ACIPEP 100ML",
+        "cost":
+        452,
+        "price":
+        533.36
+      },
+      {
+        "name":
+        "Susp. ACIPEP",
+        "cost":
+        0,
+        "price":
+        0
+      },
+      {
+        "name":
+        "Susp. ALBENDAZOLE",
+        "cost":
+        119,
+        "price":
+        140.42
+      },
+      {
+        "name":
+        "Susp. AMOXYL",
+        "cost":
+        323,
+        "price":
+        381.14
+      },
+      {
+        "name":
+        "Susp. AMPICLOX",
+        "cost":
+        452,
+        "price":
+        533.36
+      },
+      {
+        "name":
+        "Susp. AMPICLOX DROP",
+        "cost":
+        465,
+        "price":
+        548.6999999999999
+      },
+      {
+        "name":
+        "Susp. ARTEMETHER",
+        "cost":
+        0,
+        "price":
+        0
+      },
+      {
+        "name":
+        "Susp. ASTYMIN 100ML",
+        "cost":
+        946,
+        "price":
+        1116.28
+      },
+      {
+        "name":
+        "Susp. ASTYMIN 200ML",
+        "cost":
+        0,
+        "price":
+        0
+      },
+      {
+        "name":
+        "Susp. AUGMENTINE 228.5MG",
+        "cost":
+        700,
+        "price":
+        826
+      },
+      {
+        "name":
+        "Susp. AZITHROMYCIN",
+        "cost":
+        821,
+        "price":
+        968.78
+      },
+      {
+        "name":
+        "Susp. CEFIXIME",
+        "cost":
+        945,
+        "price":
+        1115.1
+      },
+      {
+        "name":
+        "Susp. CEFUROXIME ACEF",
+        "cost":
+        1260,
+        "price":
+        1486.8
+      },
+      {
+        "name":
+        "Susp. CEFUROXIME ZINNAT",
+        "cost":
+        0,
+        "price":
+        0
+      },
+      {
+        "name":
+        "Susp. CEPHALEXIN",
+        "cost":
+        485,
+        "price":
+        572.3
+      },
+      {
+        "name":
+        "Susp. CHLORTAMOL",
+        "cost":
+        138,
+        "price":
+        162.84
+      },
+      {
+        "name":
+        "Susp. D KOFF",
+        "cost":
+        412,
+        "price":
+        486.15999999999997
+      },
+      {
+        "name":
+        "Susp. ERYTHROMYCIN",
+        "cost":
+        377,
+        "price":
+        444.85999999999996
+      },
+      {
+        "name":
+        "Susp. EXIPLON Adult",
+        "cost":
+        193,
+        "price":
+        227.73999999999998
+      },
+      {
+        "name":
+        "Susp. EXIPLON Child",
+        "cost":
+        170,
+        "price":
+        200.6
+      },
+      {
+        "name":
+        "Susp. IBUPROFEN",
+        "cost":
+        161,
+        "price":
+        189.98
+      },
+      {
+        "name":
+        "Susp. JAWARON",
+        "cost":
+        494,
+        "price":
+        582.92
+      },
+      {
+        "name":
+        "Susp. JAWASIL",
+        "cost":
+        430,
+        "price":
+        507.4
+      },
+      {
+        "name":
+        "Susp. LACTULOSE",
+        "cost":
+        810,
+        "price":
+        955.8
+      },
+      {
+        "name":
+        "Susp. LIQUID PARAFIN",
+        "cost":
+        406,
+        "price":
+        479.08
+      },
+      {
+        "name":
+        "Susp. LORATADINE",
+        "cost":
+        0,
+        "price":
+        0
+      },
+      {
+        "name":
+        "Susp. M M T 120ML",
+        "cost":
+        280,
+        "price":
+        330.4
+      },
+      {
+        "name":
+        "Susp. M M T 200ML",
+        "cost":
+        430,
+        "price":
+        507.4
+      },
+      {
+        "name":
+        "Susp. METRONIDAZOLE",
+        "cost":
+        162,
+        "price":
+        191.16
+      },
+      {
+        "name":
+        "Susp. MIST POT CIT",
+        "cost":
+        161,
+        "price":
+        189.98
+      },
+      {
+        "name":
+        "Susp. MULTIVITAMIN",
+        "cost":
+        138,
+        "price":
+        162.84
+      },
+      {
+        "name":
+        "Susp. MULTIVITAMIN DROP",
+        "cost":
+        180,
+        "price":
+        212.39999999999998
+      },
+      {
+        "name":
+        "Susp. NOSPAMIN DROP",
+        "cost":
+        235,
+        "price":
+        277.3
+      },
+      {
+        "name":
+        "Susp. O R S",
+        "cost":
+        70,
+        "price":
+        82.6
+      },
+      {
+        "name":
+        "Susp. O R S Coparked with zinc":
+        "cost":
+        70:
+        "price":
+        82.6
+      },
+      {
+        "name":
+        "Susp. ORAL DROP NYSTATIN":
+        "cost":
+        410:
+        "price":
+        483.79999999999995
+      },
+      {
+        "name":
+        "Susp. PANDA DROP":
+        "cost":
+        205:
+        "price":
+        241.89999999999998
+      },
+      {
+        "name":
+        "Susp. PARACETAMOL":
+        "cost":
+        130:
+        "price":
+        153.4
+      },
+      {
+        "name":
+        "Susp. PHENOBARBITONE":
+        "cost":
+        345:
+        "price":
+        407.09999999999997
+      },
+      {
+        "name":
+        "Susp. PIRITON":
+        "cost":
+        130:
+        "price":
+        153.4
+      },
+      {
+        "name":
+        "Susp. PROMETHAZINE":
+        "cost":
+        134:
+        "price":
+        158.12
+      },
+      {
+        "name":
+        "Susp. QUININE":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Susp. SALBUTAMOL":
+        "cost":
+        298:
+        "price":
+        351.64
+      },
+      {
+        "name":
+        "Susp. SEPTRIN":
+        "cost":
+        172:
+        "price":
+        202.95999999999998
+      },
+      {
+        "name":
+        "Susp. POLYGEL":
+        "cost":
+        430:
+        "price":
+        507.4
+      },
+      {
+        "name":
+        "Susp. TUXIL D":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Susp. TUXIL N":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Susp. VIT B COMPLEX":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Susp. VITAMIN C":
+        "cost":
+        139:
+        "price":
+        164.01999999999998
+      },
+      {
+        "name":
+        "Susp. VITAMIN C DROP":
+        "cost":
+        236:
+        "price":
+        278.47999999999996
+      },
+      {
+        "name":
+        "Susp. AMINO PEP":
+        "cost":
+        670:
+        "price":
+        790.5999999999999
+      },
+      {
+        "name":
+        "Susp. MAYSYDYL":
+        "cost":
+        474:
+        "price":
+        559.3199999999999
+      },
+      {
+        "name":
+        "Susp. ASCOREX":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Susp. SUPERMAG 100ml":
+        "cost":
+        null:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Cap. AMOXYL 250MG":
+        "cost":
+        180:
+        "price":
+        212.39999999999998
+      },
+      {
+        "name":
+        "Cap. AMOXYL 250MG Dispersible":
+        "cost":
+        190:
+        "price":
+        224.2
+      },
+      {
+        "name":
+        "Cap. AMOXYL 500MG":
+        "cost":
+        205:
+        "price":
+        241.89999999999998
+      },
+      {
+        "name":
+        "Cap. AMPICLOX":
+        "cost":
+        202:
+        "price":
+        238.35999999999999
+      },
+      {
+        "name":
+        "Cap. AMPIFLUX":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Cap. BLOOD TONIC 12":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Cap. CLINDAMYCIN 300MG":
+        "cost":
+        740:
+        "price":
+        873.1999999999999
+      },
+      {
+        "name":
+        "Cap. DOXYCYCLINE 100MG":
+        "cost":
+        221:
+        "price":
+        260.78
+      },
+      {
+        "name":
+        "Cap. FLUCONAZOLE 200MG":
+        "cost":
+        400:
+        "price":
+        472
+      },
+      {
+        "name":
+        "Cap. FLUCONAZOLE 50MG":
+        "cost":
+        341:
+        "price":
+        402.38
+      },
+      {
+        "name":
+        "Cap. FLUCONAZOLE 150MG":
+        "cost":
+        341:
+        "price":
+        402.38
+      },
+      {
+        "name":
+        "Cap. JAWARON 10":
+        "cost":
+        145:
+        "price":
+        171.1
+      },
+      {
+        "name":
+        "Cap. KETOCONAZOLE 200MG":
+        "cost":
+        323:
+        "price":
+        381.14
+      },
+      {
+        "name":
+        "Cap. LIVOLYN FORTE":
+        "cost":
+        570:
+        "price":
+        672.5999999999999
+      },
+      {
+        "name":
+        "Cap. LOPERAMIDE":
+        "cost":
+        70:
+        "price":
+        82.6
+      },
+      {
+        "name":
+        "Cap. NAT B":
+        "cost":
+        705:
+        "price":
+        831.9
+      },
+      {
+        "name":
+        "Cap. NAT C":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Cap. OMEPRAZOLE 20MG":
+        "cost":
+        157:
+        "price":
+        185.26
+      },
+      {
+        "name":
+        "Cap. PIROXICAM":
+        "cost":
+        80:
+        "price":
+        94.39999999999999
+      },
+      {
+        "name":
+        "Cap. RABEPRAZOLE 20MG":
+        "cost":
+        300:
+        "price":
+        354
+      },
+      {
+        "name":
+        "Cap. VITAMIN A":
+        "cost":
+        187:
+        "price":
+        220.66
+      },
+      {
+        "name":
+        "Cap. VITAMIN E":
+        "cost":
+        760:
+        "price":
+        896.8
+      },
+      {
+        "name":
+        "Cap. HEALTHY YOU WOMEN":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Cap. HEALTHY YOU MEN":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. ACETAZOLAMIDE 250mg":
+        "cost":
+        25:
+        "price":
+        29.5
+      },
+      {
+        "name":
+        "Tab. ACETYL SALICYLIC ACID 75mg":
+        "cost":
+        71:
+        "price":
+        83.78
+      },
+      {
+        "name":
+        "Tab. ALBENDAZOLE 200mg":
+        "cost":
+        175:
+        "price":
+        206.5
+      },
+      {
+        "name":
+        "Tab. ALDACTONE 28 25mg":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. ALDACTONE 500 25mg":
+        "cost":
+        16:
+        "price":
+        18.88
+      },
+      {
+        "name":
+        "Tab. ALDOMET 250mg":
+        "cost":
+        247:
+        "price":
+        291.46
+      },
+      {
+        "name":
+        "Tab. AMLODIPINE 10mg":
+        "cost":
+        220:
+        "price":
+        259.59999999999997
+      },
+      {
+        "name":
+        "Tab. AMLODIPINE 5mg":
+        "cost":
+        220:
+        "price":
+        259.59999999999997
+      },
+      {
+        "name":
+        "Tab. AMOXYCILLIN 250mg Dispersible":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. ARTEMETHER LUMEFANTRINE 24 20mg 20mg/120mg":
+        "cost":
+        372:
+        "price":
+        438.96
+      },
+      {
+        "name":
+        "Tab. ARTEMETHER LUMEFANTRINE 6 80mg 80mg/480mg":
+        "cost":
+        385:
+        "price":
+        454.29999999999995
+      },
+      {
+        "name":
+        "Tab. ARTHROTEC":
+        "cost":
+        789:
+        "price":
+        931.02
+      },
+      {
+        "name":
+        "Tab. ASPAIN":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. AUGMENTINE 375MG":
+        "cost":
+        1300:
+        "price":
+        1534
+      },
+      {
+        "name":
+        "Tab. AUGMENTINE 625MG":
+        "cost":
+        953:
+        "price":
+        1124.54
+      },
+      {
+        "name":
+        "Tab. AUGMENTINE 1G":
+        "cost":
+        1103:
+        "price":
+        1301.54
+      },
+      {
+        "name":
+        "Tab. ASCORBIC ACID 100mg":
+        "cost":
+        1300:
+        "price":
+        1534
+      },
+      {
+        "name":
+        "Tab. AZITHROMYCIN 250MG":
+        "cost":
+        473:
+        "price":
+        558.14
+      },
+      {
+        "name":
+        "Tab. AZITHROMYCIN 500MG":
+        "cost":
+        550:
+        "price":
+        649
+      },
+      {
+        "name":
+        "Tab. BENDROFLUMETHIAZIDE 2.5MG":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. BENDROFLUMETHIAZIDE 5MG":
+        "cost":
+        138:
+        "price":
+        162.84
+      },
+      {
+        "name":
+        "Tab. BROMAZEPAM 1.5MG":
+        "cost":
+        273:
+        "price":
+        322.14
+      },
+      {
+        "name":
+        "Tab. BROMAZEPAM 3MG":
+        "cost":
+        273:
+        "price":
+        322.14
+      },
+      {
+        "name":
+        "Tab. BUSCOPAN":
+        "cost":
+        185:
+        "price":
+        218.29999999999998
+      },
+      {
+        "name":
+        "Tab. CALCIUM SANDOZ CAC":
+        "cost":
+        1695:
+        "price":
+        2000.1
+      },
+      {
+        "name":
+        "Tab. CALCIUM LACTATE":
+        "cost":
+        5:
+        "price":
+        5.8999999999999995
+      },
+      {
+        "name":
+        "Tab. CARBAMAZEPINE 100MG":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. CARBIMAZOLE 5MG":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. CEFIXIME 200MG":
+        "cost":
+        592:
+        "price":
+        698.56
+      },
+      {
+        "name":
+        "Tab. CEFIXIME 400MG":
+        "cost":
+        970:
+        "price":
+        1144.6
+      },
+      {
+        "name":
+        "Tab. CEFUROXIME 250MG":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. CEFUROXIME 500MG":
+        "cost":
+        968:
+        "price":
+        1142.24
+      },
+      {
+        "name":
+        "Tab. CEFLONAC FORTE SP":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. CELECOXIB":
+        "cost":
+        830:
+        "price":
+        979.4
+      },
+      {
+        "name":
+        "Tab. CENOX TN":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. COGNITOL":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. CINNARIZINE Stugeron":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. CIMETIDINE 200mg":
+        "cost":
+        312:
+        "price":
+        368.15999999999997
+      },
+      {
+        "name":
+        "Tab. CETRIZINE 10mg":
+        "cost":
+        221:
+        "price":
+        260.78
+      },
+      {
+        "name":
+        "Tab. CHLORPHENIRAMINE 100":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. CLOPIDOGREL 75MG":
+        "cost":
+        602:
+        "price":
+        710.36
+      },
+      {
+        "name":
+        "Tab. CLOMIPHENE 50MG":
+        "cost":
+        480:
+        "price":
+        566.4
+      },
+      {
+        "name":
+        "Tab. CLOTRIMAZOLE V TABLET 100mg":
+        "cost":
+        360:
+        "price":
+        424.79999999999995
+      },
+      {
+        "name":
+        "Tab. CHYMORAL":
+        "cost":
+        175:
+        "price":
+        206.5
+      },
+      {
+        "name":
+        "Tab. OFLOXACIN TINIDAZOLE":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. CIPROFLOXACIN 500MG":
+        "cost":
+        260:
+        "price":
+        306.8
+      },
+      {
+        "name":
+        "Tab. CLARITHROMYCIN 500MG":
+        "cost":
+        1325:
+        "price":
+        1563.5
+      },
+      {
+        "name":
+        "Tab. COTRIMOZAXOLE 480mg":
+        "cost":
+        78:
+        "price":
+        92.03999999999999
+      },
+      {
+        "name":
+        "Tab. COCODAMOL":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. DAONIL":
+        "cost":
+        85:
+        "price":
+        100.3
+      },
+      {
+        "name":
+        "Tab. DEXAMETHASONE":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. DICLOFENAC SODUIM 50MG Hovid":
+        "cost":
+        174:
+        "price":
+        205.32
+      },
+      {
+        "name":
+        "Tab. DICLOFENAC POTASSIUM 50MG":
+        "cost":
+        86:
+        "price":
+        101.47999999999999
+      },
+      {
+        "name":
+        "Tab. DIGOXIN 0.125MG 125MG 1000":
+        "cost":
+        8:
+        "price":
+        9.44
+      },
+      {
+        "name":
+        "Tab. DIGOXIN 0.125MG 125MG 50":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. DOLOMETA B":
+        "cost":
+        175:
+        "price":
+        206.5
+      },
+      {
+        "name":
+        "Tab. ERYTHROMYCIN 500MG":
+        "cost":
+        325:
+        "price":
+        383.5
+      },
+      {
+        "name":
+        "Tab. FANSIDAR":
+        "cost":
+        173:
+        "price":
+        204.14
+      },
+      {
+        "name":
+        "Tab. FERROUS SULPHATE":
+        "cost":
+        1400:
+        "price":
+        1652
+      },
+      {
+        "name":
+        "Tab. FLORANORM":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. FOLIC ACID":
+        "cost":
+        852:
+        "price":
+        1005.3599999999999
+      },
+      {
+        "name":
+        "Tab. FRUSEMIDE 40MG":
+        "cost":
+        108:
+        "price":
+        127.44
+      },
+      {
+        "name":
+        "Tab. GRISEOFULVIN":
+        "cost":
+        600:
+        "price":
+        708
+      },
+      {
+        "name":
+        "Tab. IBUPROFEN 400MG":
+        "cost":
+        102:
+        "price":
+        120.36
+      },
+      {
+        "name":
+        "Tab. IBUPROFEN 200MG":
+        "cost":
+        87:
+        "price":
+        102.66
+      },
+      {
+        "name":
+        "Tab. DIPAINS":
+        "cost":
+        135:
+        "price":
+        159.29999999999998
+      },
+      {
+        "name":
+        "Tab. KETOCONAZOLE 200MG":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. LAMIVUDINE":
+        "cost":
+        2945:
+        "price":
+        3475.1
+      },
+      {
+        "name":
+        "Tab. LEVOFLOXACIN 500MG":
+        "cost":
+        394:
+        "price":
+        464.91999999999996
+      },
+      {
+        "name":
+        "Tab. LISINOPRIL 10MG":
+        "cost":
+        159:
+        "price":
+        187.61999999999998
+      },
+      {
+        "name":
+        "Tab. LISINOPRIL 5MG":
+        "cost":
+        159:
+        "price":
+        187.61999999999998
+      },
+      {
+        "name":
+        "Tab. LOSARTAN 100MG":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. LOSARTAN 50MG":
+        "cost":
+        599:
+        "price":
+        706.8199999999999
+      },
+      {
+        "name":
+        "Tab. LORATADINE 10MG":
+        "cost":
+        87:
+        "price":
+        102.66
+      },
+      {
+        "name":
+        "Tab. M M T":
+        "cost":
+        4330:
+        "price":
+        5109.4
+      },
+      {
+        "name":
+        "Tab. METRONIDAZOLE 400MG":
+        "cost":
+        130:
+        "price":
+        153.4
+      },
+      {
+        "name":
+        "Tab. MEFENAMIC ACID 500MG":
+        "cost":
+        420:
+        "price":
+        495.59999999999997
+      },
+      {
+        "name":
+        "Tab. MEFTFORMIN 500MG":
+        "cost":
+        142:
+        "price":
+        167.56
+      },
+      {
+        "name":
+        "Tab. MEBENDAZOLE":
+        "cost":
+        85:
+        "price":
+        100.3
+      },
+      {
+        "name":
+        "Tab. METOCLOPRAMIDE 10MG":
+        "cost":
+        90:
+        "price":
+        106.19999999999999
+      },
+      {
+        "name":
+        "Tab. METRONIDAZOLE 200MG":
+        "cost":
+        2473:
+        "price":
+        2918.14
+      },
+      {
+        "name":
+        "Tab. MELOXICAM 15MG":
+        "cost":
+        476:
+        "price":
+        561.68
+      },
+      {
+        "name":
+        "Tab. MISOPROSTOL CYTOTEC":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. MULTIVITAMIN":
+        "cost":
+        1320:
+        "price":
+        1557.6
+      },
+      {
+        "name":
+        "Tab. NAVIDOXINE x":
+        "cost":
+        17:
+        "price":
+        20.06
+      },
+      {
+        "name":
+        "Tab. NAVIDOXINE PYRIDOXINE":
+        "cost":
+        218:
+        "price":
+        257.24
+      },
+      {
+        "name":
+        "Tab. NEUROVITE FORTE":
+        "cost":
+        945:
+        "price":
+        1115.1
+      },
+      {
+        "name":
+        "Tab. NIFEDIFINE 20MG":
+        "cost":
+        165:
+        "price":
+        194.7
+      },
+      {
+        "name":
+        "Tab. NIFEDIFINE 20MG Cardiovasc":
+        "cost":
+        220:
+        "price":
+        259.59999999999997
+      },
+      {
+        "name":
+        "Tab. NIFEDIFINE XL 30MG":
+        "cost":
+        580:
+        "price":
+        684.4
+      },
+      {
+        "name":
+        "Tab. NITROFURANTION":
+        "cost":
+        7:
+        "price":
+        8.26
+      },
+      {
+        "name":
+        "Tab. NEOMYCIN":
+        "cost":
+        4200:
+        "price":
+        4956
+      },
+      {
+        "name":
+        "Tab. NORFLEX":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. OFLOXACIN 200MG":
+        "cost":
+        291:
+        "price":
+        343.38
+      },
+      {
+        "name":
+        "Tab. OFLOXACIN 400MG":
+        "cost":
+        312:
+        "price":
+        368.15999999999997
+      },
+      {
+        "name":
+        "Tab. OFLOXACIN ORNIDAZOLE":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. P ALAXIN":
+        "cost":
+        453:
+        "price":
+        534.54
+      },
+      {
+        "name":
+        "Tab. PANFOR SR":
+        "cost":
+        340:
+        "price":
+        401.2
+      },
+      {
+        "name":
+        "Tab. PARACETAMOL 120MG":
+        "cost":
+        43:
+        "price":
+        50.739999999999995
+      },
+      {
+        "name":
+        "Tab. PARACETAMOL 500MG":
+        "cost":
+        4200:
+        "price":
+        4956
+      },
+      {
+        "name":
+        "Tab. PARAFLEX":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. PERGLIM 4MG":
+        "cost":
+        430:
+        "price":
+        507.4
+      },
+      {
+        "name":
+        "Tab. PERGLIM 2MG":
+        "cost":
+        430:
+        "price":
+        507.4
+      },
+      {
+        "name":
+        "Tab. PREDNISOLONE 5MG":
+        "cost":
+        75:
+        "price":
+        88.5
+      },
+      {
+        "name":
+        "Tab. PREGABALINE 75mg":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. PROMETHAZINE":
+        "cost":
+        104:
+        "price":
+        122.72
+      },
+      {
+        "name":
+        "Tab. PROGUANIL":
+        "cost":
+        630:
+        "price":
+        743.4
+      },
+      {
+        "name":
+        "Tab. PRIMULUT N":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. QUININE SULPHATE":
+        "cost":
+        422:
+        "price":
+        497.96
+      },
+      {
+        "name":
+        "Tab. RABEPRAZOLE 20MG":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. RANITIDINE 150MG":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. SALBUTAMOL 4MG":
+        "cost":
+        3.8:
+        "price":
+        4.484
+      },
+      {
+        "name":
+        "Tab. SLOW K":
+        "cost":
+        102:
+        "price":
+        120.36
+      },
+      {
+        "name":
+        "Tab. TIZANIDINE 2MG SIRDALUD":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. TIZANIDINE 4MG SIRDALUD":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. TORSEMIDE 20MG":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. TRENEXAMIC ACID":
+        "cost":
+        817:
+        "price":
+        964.06
+      },
+      {
+        "name":
+        "Tab. AMITRIPTYLINE":
+        "cost":
+        8:
+        "price":
+        9.44
+      },
+      {
+        "name":
+        "Tab. VIT B COMPLEX":
+        "cost":
+        1089:
+        "price":
+        1285.02
+      },
+      {
+        "name":
+        "Tab. COTOZOL TZ":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. YEAST":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. NAPROXEN":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. DIPHENHYDRAMINE":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. PRAZIQUANTEL":
+        "cost":
+        570:
+        "price":
+        672.5999999999999
+      },
+      {
+        "name":
+        "Tab. ACECLOFENAC":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. JOINT RENEW ADVANCED":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. IMBACT OZ":
+        "cost":
+        1395:
+        "price":
+        1646.1
+      },
+      {
+        "name":
+        "Tab. ALLOPURINOL 300MG":
+        "cost":
+        255:
+        "price":
+        300.9
+      },
+      {
+        "name":
+        "Tab. DISPERSABLE SEPTRIN 120MG":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. DIAZEPAM 5MG":
+        "cost":
+        422:
+        "price":
+        497.96
+      },
+      {
+        "name":
+        "Tab. SUREX NIGHT":
+        "cost":
+        220:
+        "price":
+        259.59999999999997
+      },
+      {
+        "name":
+        "Tab. Q SLEEP":
+        "cost":
+        440:
+        "price":
+        519.1999999999999
+      },
+      {
+        "name":
+        "Tab. IMMUNOPORTE":
+        "cost":
+        480:
+        "price":
+        566.4
+      },
+      {
+        "name":
+        "Tab. MIFEPAK":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. MISOFEM 200MCG":
+        "cost":
+        134:
+        "price":
+        158.12
+      },
+      {
+        "name":
+        "Tab. TAMSULOCIN":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. SINUFED":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. THIAPRIL":
+        "cost":
+        561:
+        "price":
+        661.98
+      },
+      {
+        "name":
+        "Tab. EYE CAP":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. ADAMS DESIRE":
+        "cost":
+        5950:
+        "price":
+        7021
+      },
+      {
+        "name":
+        "Tab. DICLOFENAC 100MG SR":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "Tab. ANTALGEX T":
+        "cost":
+        700:
+        "price":
+        826
+      },
+      {
+        "name":
+        "Tab. NICLOVIX":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "10ML SYRINGES ":
+        "cost":
+        70:
+        "price":
+        82.6
+      },
+      {
+        "name":
+        "20ML SYRINGES ":
+        "cost":
+        75:
+        "price":
+        88.5
+      },
+      {
+        "name":
+        "2ML SYRINGES ":
+        "cost":
+        30:
+        "price":
+        35.4
+      },
+      {
+        "name":
+        "50ML SYRINGES ":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "5ML SYRINGES ":
+        "cost":
+        36:
+        "price":
+        42.48
+      },
+      {
+        "name":
+        "ADHESIVE PLASTER 1''":
+        "cost":
+        300:
+        "price":
+        354
+      },
+      {
+        "name":
+        "ADHESIVE PLASTER 4''":
+        "cost":
+        1165:
+        "price":
+        1374.6999999999998
+      },
+      {
+        "name":
+        "CANNULAR 18G":
+        "cost":
+        81.6:
+        "price":
+        96.28799999999998
+      },
+      {
+        "name":
+        "CANNULAR 20G ":
+        "cost":
+        81.6:
+        "price":
+        96.28799999999998
+      },
+      {
+        "name":
+        "CANNULAR 22G":
+        "cost":
+        81.6:
+        "price":
+        96.28799999999998
+      },
+      {
+        "name":
+        "CANNULAR 24G":
+        "cost":
+        90:
+        "price":
+        106.19999999999999
+      },
+      {
+        "name":
+        "CALAMINE LOTION":
+        "cost":
+        92:
+        "price":
+        108.55999999999999
+      },
+      {
+        "name":
+        "CETRIMIDE CHLORHEXIDINE 125ML":
+        "cost":
+        384:
+        "price":
+        453.12
+      },
+      {
+        "name":
+        "CETRIMIDE CHLORHEXIDINE 2L":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "CETRIMIDE CHLORHEXIDINE 4L ":
+        "cost":
+        5800:
+        "price":
+        6844
+      },
+      {
+        "name":
+        "CHLORHEXIDINE GEL 4%":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "CHROMIC CATGUT 1":
+        "cost":
+        230:
+        "price":
+        271.4
+      },
+      {
+        "name":
+        "CHROMIC CATGUT 2":
+        "cost":
+        230:
+        "price":
+        271.4
+      },
+      {
+        "name":
+        "CHROMIC CATGUT 2/0":
+        "cost":
+        230:
+        "price":
+        271.4
+      },
+      {
+        "name":
+        "CHROMIC CATGUT 3/0":
+        "cost":
+        230:
+        "price":
+        271.4
+      },
+      {
+        "name":
+        "CHROMIC 0":
+        "cost":
+        230:
+        "price":
+        271.4
+      },
+      {
+        "name":
+        "COTTON WOOL ":
+        "cost":
+        1500:
+        "price":
+        1770
+      },
+      {
+        "name":
+        "CREPE BANDAGE 4''":
+        "cost":
+        250:
+        "price":
+        295
+      },
+      {
+        "name":
+        "CREPE BANDAGE 6''":
+        "cost":
+        265:
+        "price":
+        312.7
+      },
+      {
+        "name":
+        "CRESCENT BLADE":
+        "cost":
+        1500:
+        "price":
+        1770
+      },
+      {
+        "name":
+        "DISPENSING ENVELOPE":
+        "cost":
+        206:
+        "price":
+        243.07999999999998
+      },
+      {
+        "name":
+        "DISPOSABLE GLOVES ":
+        "cost":
+        166:
+        "price":
+        195.88
+      },
+      {
+        "name":
+        "EUSOL SOLUTION 2L":
+        "cost":
+        1850:
+        "price":
+        2183
+      },
+      {
+        "name":
+        "EUSOL SOLUTION  100ml":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "EXAMINATION GLOVES ":
+        "cost":
+        2200:
+        "price":
+        2596
+      },
+      {
+        "name":
+        "FACE MASK":
+        "cost":
+        1500:
+        "price":
+        1770
+      },
+      {
+        "name":
+        "GAUZE BANDAGE 3"":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "GAUZE BANDAGE 36''":
+        "cost":
+        5773:
+        "price":
+        6812.139999999999
+      },
+      {
+        "name":
+        "GAUZE BANDAGE 4''":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "GAUZE BANDAGE 6''":
+        "cost":
+        1250:
+        "price":
+        1475
+      },
+      {
+        "name":
+        "GENTIAN VIOLET 1%":
+        "cost":
+        108:
+        "price":
+        127.44
+      },
+      {
+        "name":
+        "HYDROGEN PEROXIDE ":
+        "cost":
+        263:
+        "price":
+        310.34
+      },
+      {
+        "name":
+        "INFUSION GIVING SET":
+        "cost":
+        101:
+        "price":
+        119.17999999999999
+      },
+      {
+        "name":
+        "INSULIN SYRINGE":
+        "cost":
+        3500:
+        "price":
+        4130
+      },
+      {
+        "name":
+        "INSULIN SYRINGE 100IU":
+        "cost":
+        3500:
+        "price":
+        4130
+      },
+      {
+        "name":
+        "INSULIN SYRINGE 40IU":
+        "cost":
+        3500:
+        "price":
+        4130
+      },
+      {
+        "name":
+        "INTRAOCULAR LENS (Assorted)":
+        "cost":
+        1510:
+        "price":
+        1781.8
+      },
+      {
+        "name":
+        "IZAL 140ML":
+        "cost":
+        232:
+        "price":
+        273.76
+      },
+      {
+        "name":
+        "IZAL 4 LITRES ":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "KERATOME BLADE ":
+        "cost":
+        1300:
+        "price":
+        1534
+      },
+      {
+        "name":
+        "MEDICATED SOAP":
+        "cost":
+        150:
+        "price":
+        177
+      },
+      {
+        "name":
+        "METHYLATED SPIRIT 100ML ":
+        "cost":
+        215:
+        "price":
+        253.7
+      },
+      {
+        "name":
+        "METHYLATED SPIRIT 2 LITRES":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "METHYLATED SPIRIT 2 LITRES (Mopson)":
+        "cost":
+        4300:
+        "price":
+        5074
+      },
+      {
+        "name":
+        "METHYLATED SPIRIT 4 LITRES ":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "MUCUS EXTRACTOR":
+        "cost":
+        152:
+        "price":
+        179.35999999999999
+      },
+      {
+        "name":
+        "NG TUBE SIZE 10":
+        "cost":
+        163:
+        "price":
+        192.34
+      },
+      {
+        "name":
+        "NG TUBE SIZE 12":
+        "cost":
+        163:
+        "price":
+        192.34
+      },
+      {
+        "name":
+        "NG TUBE SIZE 16":
+        "cost":
+        163:
+        "price":
+        192.34
+      },
+      {
+        "name":
+        "NG TUBE SIZE 18":
+        "cost":
+        163:
+        "price":
+        192.34
+      },
+      {
+        "name":
+        "NG TUBE SIZE 5":
+        "cost":
+        163:
+        "price":
+        192.34
+      },
+      {
+        "name":
+        "NG TUBE SIZE 6":
+        "cost":
+        163:
+        "price":
+        192.34
+      },
+      {
+        "name":
+        "NG TUBE SIZE 8":
+        "cost":
+        163:
+        "price":
+        192.34
+      },
+      {
+        "name":
+        "NURSE CAP":
+        "cost":
+        1265:
+        "price":
+        1492.6999999999998
+      },
+      {
+        "name":
+        "NYLON 1":
+        "cost":
+        1265:
+        "price":
+        1492.6999999999998
+      },
+      {
+        "name":
+        "NYLON 2":
+        "cost":
+        1265:
+        "price":
+        1492.6999999999998
+      },
+      {
+        "name":
+        "NYLON 2/0":
+        "cost":
+        1265:
+        "price":
+        1492.6999999999998
+      },
+      {
+        "name":
+        "NYLON 3/0":
+        "cost":
+        1265:
+        "price":
+        1492.6999999999998
+      },
+      {
+        "name":
+        "NYLON 0":
+        "cost":
+        1265:
+        "price":
+        1492.6999999999998
+      },
+      {
+        "name":
+        "NYLON 10/0":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "OPTHALMIC SOLUTION":
+        "cost":
+        1300:
+        "price":
+        1534
+      },
+      {
+        "name":
+        "ORTHOBAN 6"":
+        "cost":
+        246:
+        "price":
+        290.28
+      },
+      {
+        "name":
+        "ORTHOBAN 4"":
+        "cost":
+        255:
+        "price":
+        300.9
+      },
+      {
+        "name":
+        "POP 4"":
+        "cost":
+        294:
+        "price":
+        346.91999999999996
+      },
+      {
+        "name":
+        "POP 6"":
+        "cost":
+        326:
+        "price":
+        384.68
+      },
+      {
+        "name":
+        "POVIDONE IODINE 2L":
+        "cost":
+        8062:
+        "price":
+        9513.16
+      },
+      {
+        "name":
+        "POVIDONE IODINE 100ML":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "SANITARY PAD ":
+        "cost":
+        306:
+        "price":
+        361.08
+      },
+      {
+        "name":
+        "SPINAL NEEDLE":
+        "cost":
+        158:
+        "price":
+        186.44
+      },
+      {
+        "name":
+        "SCALP VEIN NEEDLE":
+        "cost":
+        62:
+        "price":
+        73.16
+      },
+      {
+        "name":
+        "SCANNING PAPER ":
+        "cost":
+        4300:
+        "price":
+        5074
+      },
+      {
+        "name":
+        "SODIUM HYPOCHLORIDE 500ML ":
+        "cost":
+        456:
+        "price":
+        538.0799999999999
+      },
+      {
+        "name":
+        "SURGICAL BLADES SIZE 22":
+        "cost":
+        2850:
+        "price":
+        3363
+      },
+      {
+        "name":
+        "SURGICAL GLOVES SIZE 8 ":
+        "cost":
+        7660:
+        "price":
+        9038.8
+      },
+      {
+        "name":
+        "UMBLICAL CORD CLAMP ":
+        "cost":
+        35:
+        "price":
+        41.3
+      },
+      {
+        "name":
+        "URINARY CATHETER SIZE 14":
+        "cost":
+        265:
+        "price":
+        312.7
+      },
+      {
+        "name":
+        "URINARY CATHETER SIZE 16":
+        "cost":
+        265:
+        "price":
+        312.7
+      },
+      {
+        "name":
+        "URINARY CATHETER SIZE 18":
+        "cost":
+        265:
+        "price":
+        312.7
+      },
+      {
+        "name":
+        "URINARY CATHETER SIZE 20":
+        "cost":
+        265:
+        "price":
+        312.7
+      },
+      {
+        "name":
+        "URINARY CATHETER SIZE 12":
+        "cost":
+        265:
+        "price":
+        312.7
+      },
+      {
+        "name":
+        "URINARY CATHETER SIZE 10":
+        "cost":
+        265:
+        "price":
+        312.7
+      },
+      {
+        "name":
+        "URINARY CATHETER SIZE 22":
+        "cost":
+        265:
+        "price":
+        312.7
+      },
+      {
+        "name":
+        "URINARY CATHETER SIZE 6":
+        "cost":
+        265:
+        "price":
+        312.7
+      },
+      {
+        "name":
+        "URINARY CATHETER SIZE 8":
+        "cost":
+        265:
+        "price":
+        312.7
+      },
+      {
+        "name":
+        "URINE BAG":
+        "cost":
+        200:
+        "price":
+        236
+      },
+      {
+        "name":
+        "USS GEL 5L":
+        "cost":
+        3978:
+        "price":
+        4694.04
+      },
+      {
+        "name":
+        "VICRYL 1":
+        "cost":
+        4300:
+        "price":
+        5074
+      },
+      {
+        "name":
+        "VICRYL 2(Non rapid)":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "VICRYL 2":
+        "cost":
+        4300:
+        "price":
+        5074
+      },
+      {
+        "name":
+        "VICRYL 2/0":
+        "cost":
+        4300:
+        "price":
+        5074
+      },
+      {
+        "name":
+        "VISCO ELASTIC SOLUTION ":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "WATER FOR INJECTION":
+        "cost":
+        32:
+        "price":
+        37.76
+      },
+      {
+        "name":
+        "X-RAY DEVELOPER POWDER 10L":
+        "cost":
+        12900:
+        "price":
+        15222
+      },
+      {
+        "name":
+        "X-RAY FILM 43*35":
+        "cost":
+        59400:
+        "price":
+        70092
+      },
+      {
+        "name":
+        "X-RAY FILM 24*30":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "ELBOW LENGTH GLOVES":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "X-RAY FIXER":
+        "cost":
+        12900:
+        "price":
+        15222
+      },
+      {
+        "name":
+        "X-RAY FILM 35*35":
+        "cost":
+        null:
+        "price":
+        0
+      },
+      {
+        "name":
+        "ANTELLERGE EYE DROP Spersellerge)":
+        "cost":
+        813:
+        "price":
+        959.3399999999999
+      },
+      {
+        "name":
+        "APPAMIDE PLUS ":
+        "cost":
+        2500:
+        "price":
+        2950
+      },
+      {
+        "name":
+        "ATROPINE ":
+        "cost":
+        415:
+        "price":
+        489.7
+      },
+      {
+        "name":
+        "BETADRONE- N (Drugfield)":
+        "cost":
+        619:
+        "price":
+        730.42
+      },
+      {
+        "name":
+        "BETADRONE- N (Unbranded)":
+        "cost":
+        210:
+        "price":
+        247.79999999999998
+      },
+      {
+        "name":
+        "DERMAZIN CREAM":
+        "cost":
+        850:
+        "price":
+        1003
+      },
+      {
+        "name":
+        "BETAMETHASONE CREAM ":
+        "cost":
+        315:
+        "price":
+        371.7
+      },
+      {
+        "name":
+        "BETNOVATE C":
+        "cost":
+        365:
+        "price":
+        430.7
+      },
+      {
+        "name":
+        "BETNOVATE N":
+        "cost":
+        387:
+        "price":
+        456.65999999999997
+      },
+      {
+        "name":
+        "CHLORAMPHENICOL (ELISCA)":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "CHLORAMPHENICOL EYE DROP ":
+        "cost":
+        130:
+        "price":
+        153.4
+      },
+      {
+        "name":
+        "CHLORAMPHENICOL OINTMENT ":
+        "cost":
+        280:
+        "price":
+        330.4
+      },
+      {
+        "name":
+        "CIPROFLOXACIN EYE DROP ":
+        "cost":
+        323:
+        "price":
+        381.14
+      },
+      {
+        "name":
+        "CIPROXAMED ":
+        "cost":
+        666:
+        "price":
+        785.88
+      },
+      {
+        "name":
+        "CLINDAMYCIN GEL":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "CLOTRIMAZOLE SKIN CREAM ":
+        "cost":
+        205:
+        "price":
+        241.89999999999998
+      },
+      {
+        "name":
+        "CLOBETASOL CREAM":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "CLOTRIMAZOLE VAGINAL CREAM ":
+        "cost":
+        376:
+        "price":
+        443.67999999999995
+      },
+      {
+        "name":
+        "DERMOCLEAR":
+        "cost":
+        345:
+        "price":
+        407.09999999999997
+      },
+      {
+        "name":
+        "DICLOFENAC EYE DROP ":
+        "cost":
+        412:
+        "price":
+        486.15999999999997
+      },
+      {
+        "name":
+        "FLOBOID DX EYE DROP (OFLO +DEXA)":
+        "cost":
+        672:
+        "price":
+        792.9599999999999
+      },
+      {
+        "name":
+        "FLOBOID EYE DROP (OFLOXACIN)":
+        "cost":
+        598:
+        "price":
+        705.64
+      },
+      {
+        "name":
+        "FLUCAMED EYE DROP":
+        "cost":
+        242:
+        "price":
+        285.56
+      },
+      {
+        "name":
+        "GENTAMICIN EYE DROP":
+        "cost":
+        108:
+        "price":
+        127.44
+      },
+      {
+        "name":
+        "HYDROCORTISONE CREAM":
+        "cost":
+        530:
+        "price":
+        625.4
+      },
+      {
+        "name":
+        "KETACONAZOLE CREAM":
+        "cost":
+        320:
+        "price":
+        377.59999999999997
+      },
+      {
+        "name":
+        "KY JELLY":
+        "cost":
+        820:
+        "price":
+        967.5999999999999
+      },
+      {
+        "name":
+        "MIRAPAIN CREAM":
+        "cost":
+        378:
+        "price":
+        446.03999999999996
+      },
+      {
+        "name":
+        "MISOPT":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "NEUROGESIC EXTRA CREAM ":
+        "cost":
+        800:
+        "price":
+        944
+      },
+      {
+        "name":
+        "OCCUDEX EYE DROP":
+        "cost":
+        745:
+        "price":
+        879.0999999999999
+      },
+      {
+        "name":
+        "OCCULERGE EYE DROP ":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "OTOMED":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "PILOCARPINE":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "SALICYLIC ACID OINTMENT":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "TISSUE":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "WOODEN SPATULA":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "SULPHUR OINTMENT":
+        "cost":
+        293:
+        "price":
+        345.74
+      },
+      {
+        "name":
+        "TETRACYCLINE OINTMENT ":
+        "cost":
+        174:
+        "price":
+        205.32
+      },
+      {
+        "name":
+        "TIMOLOL EYE DROP ":
+        "cost":
+        483:
+        "price":
+        569.9399999999999
+      },
+      {
+        "name":
+        "clinDAMYCIN GEL":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "DISP. CUPS":
+        "cost":
+        0:
+        "price":
+        0
+      },
+      {
+        "name":
+        "SALBUTAMOL INHALER":
+        "cost":
+        0:
+        "price":
+        0
+      }
+]
