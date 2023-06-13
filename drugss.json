@@ -323,17 +323,17 @@
         "name":
         "Inj. LIDOCAINE",
         "cost":
-        500,
+        540,
         "price":
-        590
+        642.6
       },
       {
         "name":
         "Inj. LIDOCAINE/ADRENALINE",
         "cost":
-        580,
+        570,
         "price":
-        684.4
+        678.3
       },
       {
         "name":
@@ -341,23 +341,23 @@
         "cost":
         280,
         "price":
-        330.4
+        333.2
       },
       {
         "name":
         "Inj. MANNITOL 10%",
         "cost":
-        665,
+        600,
         "price":
-        784.6999999999999
+        714
       },
       {
         "name":
         "Inj. MANNITOL 20%",
         "cost":
-        667,
+        670,
         "price":
-        787.06
+        797.3
       },
       {
         "name":
