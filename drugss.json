@@ -2,18 +2,18 @@
     {
         "name":
         "Inj. ADRENALINE",
-        "cost":150,
+        "cost":160,
         "price":
-        177
+        190.4
         
       },
       {
         "name":
         "Inj. ALPHA BETA (EMAL)",
         "cost":
-        677,
+        680,
         "price":
-        798.86
+        809.2
       },
       {
         "name":
@@ -21,7 +21,7 @@
         "cost":
         60,
         "price":
-        70.8
+        71.4
       },
       {
         "name":
@@ -29,7 +29,7 @@
         "cost":
         227,
         "price":
-        267.86
+        270.13
       },
       {
         "name":
@@ -37,7 +37,7 @@
         "cost":
         268,
         "price":
-        316.24
+        318.92
       },
       {
         "name":
@@ -45,15 +45,15 @@
         "cost":
         8500,
         "price":
-        10030
+        10115
       },
       {
         "name":
         "Inj. ANTISNAKE VENOM",
         "cost":
-        13500,
+        17500,
         "price":
-        15930
+        20825
       },
       {
         "name":
@@ -61,7 +61,7 @@
         "cost":
         538,
         "price":
-        634.8399999999999
+        640.22
       },
       {
         "name":
