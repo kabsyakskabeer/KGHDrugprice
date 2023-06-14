@@ -1620,73 +1620,73 @@
         "name":
         "Tab. DIGOXIN 0.125MG 125MG 50",
         "cost":
-        0,
+        8,
         "price":
-        0
+        9.44
       },
       {
         "name":
         "Tab. DOLOMETA B",
         "cost":
-        175,
+        230,
         "price":
-        206.5
+        273.7
       },
       {
         "name":
         "Tab. ERYTHROMYCIN 500MG",
         "cost":
-        325,
+        565,
         "price":
-        383.5
+        672.35
       },
       {
         "name":
         "Tab. FANSIDAR",
         "cost":
-        173,
+        175,
         "price":
-        204.14
+        208.25
       },
       {
         "name":
         "Tab. FERROUS SULPHATE",
         "cost":
-        1.400,
+        1.200,
         "price":
-        1.652
+        1.428
       },
       {
         "name":
         "Tab. FLORANORM",
         "cost":
-        0,
+        852,
         "price":
-        0
+        1013.88
       },
       {
         "name":
         "Tab. FOLIC ACID",
         "cost":
-        0.852,
+        0.950,
         "price":
-        1.0053599999999999
+        1.1305
       },
       {
         "name":
         "Tab. FRUSEMIDE 40MG",
         "cost":
-        108,
+        60,
         "price":
-        127.44
+        71.4
       },
       {
         "name":
         "Tab. GRISEOFULVIN",
         "cost":
-        600,
+        102,
         "price":
-        708
+        121.38
       },
       {
         "name":
@@ -1708,9 +1708,9 @@
         "name":
         "Tab. DIPAINS",
         "cost":
-        135,
+        320,
         "price":
-        159.29999999999998
+        380.8
       },
       {
         "name":
@@ -1732,33 +1732,33 @@
         "name":
         "Tab. LEVOFLOXACIN 500MG",
         "cost":
-        394,
+        490,
         "price":
-        464.91999999999996
+        583.1
       },
       {
         "name":
         "Tab. LISINOPRIL 10MG",
         "cost":
-        159,
+        190,
         "price":
-        187.61999999999998
+        226.1
       },
       {
         "name":
         "Tab. LISINOPRIL 5MG",
         "cost":
-        159,
+        155,
         "price":
-        187.61999999999998
+        184.45
       },
       {
         "name":
         "Tab. LOSARTAN 100MG",
         "cost":
-        0,
+        599,
         "price":
-        0
+        712.81
       },
       {
         "name":
