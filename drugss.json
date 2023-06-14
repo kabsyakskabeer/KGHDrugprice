@@ -1238,7 +1238,7 @@
         "cost":
         260,
         "price":
-        309.4
+        150
       },
       {
         "name":
@@ -1246,7 +1246,7 @@
         "cost":
         240,
         "price":
-        285.6
+        150
       },
       {
         "name":
@@ -1332,9 +1332,9 @@
         "name":
         "Tab. AZITHROMYCIN 500MG",
         "cost":
-        1500,
+        550,
         "price":
-        1785
+        654.5
       },
       {
         "name":
@@ -1356,33 +1356,33 @@
         "name":
         "Tab. BROMAZEPAM 1.5MG",
         "cost":
-        13,
+        273,
         "price":
-        322.14
+        324.87
       },
       {
         "name":
         "Tab. BROMAZEPAM 3MG",
         "cost":
-        273,
+        185,
         "price":
-        322.14
+        220.15
       },
       {
         "name":
         "Tab. BUSCOPAN",
         "cost":
-        185,
+        180,
         "price":
-        218.29999999999998
+        214.2
       },
       {
         "name":
         "Tab. CALCIUM SANDOZ CAC",
         "cost":
-        1695,
+        1000,
         "price":
-        2000.1
+        1190
       },
       {
         "name":
@@ -1390,7 +1390,7 @@
         "cost":
         5,
         "price":
-        5.8999999999999995
+        5.95
       },
       {
         "name":
@@ -1398,63 +1398,63 @@
         "cost":
         0,
         "price":
-        0
+        23
       },
       {
         "name":
         "Tab. CARBIMAZOLE 5MG",
         "cost":
-        0,
+        592,
         "price":
-        0
+        704.48
       },
       {
         "name":
         "Tab. CEFIXIME 200MG",
         "cost":
-        592,
+        900,
         "price":
-        698.56
+        1071
       },
       {
         "name":
         "Tab. CEFIXIME 400MG",
         "cost":
-        970,
+        1100,
         "price":
-        1144.6
+        1309
       },
       {
         "name":
         "Tab. CEFUROXIME 250MG",
         "cost":
-        0,
+        968,
         "price":
-        0
+        1151.92
       },
       {
         "name":
         "Tab. CEFUROXIME 500MG",
         "cost":
-        968,
+        1100,
         "price":
-        1142.24
+        1309
       },
       {
         "name":
         "Tab. CEFLONAC FORTE SP",
         "cost":
-        0,
+        400,
         "price":
-        0
+        476
       },
       {
         "name":
         "Tab. CELECOXIB",
         "cost":
-        830,
+        900,
         "price":
-        979.4
+        1071
       },
       {
         "name":
@@ -1476,17 +1476,17 @@
         "name":
         "Tab. CINNARIZINE Stugeron",
         "cost":
-        0,
+        312,
         "price":
-        0
+        371.28
       },
       {
         "name":
         "Tab. CIMETIDINE 200mg",
         "cost":
-        312,
+        340,
         "price":
-        368.15999999999997
+        404.6
       },
       {
         "name":
@@ -1498,27 +1498,27 @@
       },
       {
         "name":
-        "Tab. CHLORPHENIRAMINE 100",
+        "Tab. CHLORPHENIRAMINE 1",
         "cost":
-        0,
+        6.02,
         "price":
-        0
+        7.17
       },
       {
         "name":
         "Tab. CLOPIDOGREL 75MG",
         "cost":
-        602,
+        480,
         "price":
-        710.36
+        572.2
       },
       {
         "name":
         "Tab. CLOMIPHENE 50MG",
         "cost":
-        480,
+        360,
         "price":
-        566.4
+        428.4
       },
       {
         "name":
@@ -1526,7 +1526,7 @@
         "cost":
         360,
         "price":
-        424.79999999999995
+        428.4
       },
       {
         "name":
@@ -1548,45 +1548,53 @@
         "name":
         "Tab. CIPROFLOXACIN 500MG",
         "cost":
-        260,
+        320,
         "price":
-        306.8
+        380.8
       },
       {
         "name":
         "Tab. CLARITHROMYCIN 500MG",
         "cost":
-        1325,
+        1300,
         "price":
-        1563.5
+        1547
       },
       {
         "name":
         "Tab. COTRIMOZAXOLE 480mg",
         "cost":
-        78,
+         87,
         "price":
-        92.03999999999999
+        103.53
       },
       {
         "name":
         "Tab. COCODAMOL",
         "cost":
-        0,
+        85,
         "price":
-        0
+        101.15
       },
       {
         "name":
         "Tab. DAONIL",
         "cost":
-        85,
+        80,
         "price":
-        100.3
+        95.2
       },
       {
         "name":
         "Tab. DEXAMETHASONE",
+        "cost":
+        174,
+        "price":
+        207.06
+      },
+      {
+        "name":
+        "Tab. DICLOFENAC SODUIM 50MG Hovid",
         "cost":
         0,
         "price":
@@ -1594,19 +1602,11 @@
       },
       {
         "name":
-        "Tab. DICLOFENAC SODUIM 50MG Hovid",
-        "cost":
-        174,
-        "price":
-        205.32
-      },
-      {
-        "name":
         "Tab. DICLOFENAC POTASSIUM 50MG",
         "cost":
-        86,
+        40,
         "price":
-        101.47999999999999
+        47.6
       },
       {
         "name":
