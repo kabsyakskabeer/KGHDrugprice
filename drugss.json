@@ -653,7 +653,7 @@
         "cost":
         945,
         "price":
-        1115.1
+        1124.55
       },
       {
         "name":
@@ -661,7 +661,7 @@
         "cost":
         1260,
         "price":
-        1486.8
+        1499.4
       },
       {
         "name":
@@ -675,9 +675,9 @@
         "name":
         "Susp. CEPHALEXIN",
         "cost":
-        485,
+        540,
         "price":
-        572.3
+        642.6
       },
       {
         "name":
@@ -685,63 +685,63 @@
         "cost":
         138,
         "price":
-        162.84
+        164.22
       },
       {
         "name":
         "Susp. D KOFF",
         "cost":
-        412,
+        450,
         "price":
-        486.15999999999997
+        535.5
       },
       {
         "name":
         "Susp. ERYTHROMYCIN",
         "cost":
-        377,
+        490,
         "price":
-        444.85999999999996
+        583.1
       },
       {
         "name":
         "Susp. EXIPLON Adult",
         "cost":
-        193,
+        200,
         "price":
-        227.73999999999998
+        238
       },
       {
         "name":
         "Susp. EXIPLON Child",
         "cost":
-        170,
+        180,
         "price":
-        200.6
+        214.2
       },
       {
         "name":
         "Susp. IBUPROFEN",
         "cost":
-        161,
+        185,
         "price":
-        189.98
+        220.15
       },
       {
         "name":
         "Susp. JAWARON",
         "cost":
-        494,
+        520,
         "price":
-        582.92
+        618.8
       },
       {
         "name":
         "Susp. JAWASIL",
         "cost":
-        430,
+        570,
         "price":
-        507.4
+        678.3
       },
       {
         "name":
@@ -749,7 +749,7 @@
         "cost":
         810,
         "price":
-        955.8
+        963.9
       },
       {
         "name":
@@ -757,71 +757,72 @@
         "cost":
         406,
         "price":
-        479.08
+        483.14
       },
       {
         "name":
         "Susp. LORATADINE",
         "cost":
-        0,
+        350,
         "price":
-        0
+        416.5
       },
       {
         "name":
         "Susp. M M T 120ML",
         "cost":
-        280,
+        200,
         "price":
-        330.4
+        238
       },
       {
         "name":
-        "Susp. M M T 200ML",
+        "Susp. M M T 200ML supermag",
         "cost":
-        430,
+        350,
         "price":
-        507.4
+        416.5
       },
       {
         "name":
         "Susp. METRONIDAZOLE",
         "cost":
-        162,
+        200,
         "price":
-        191.16
+        196.35
+        
       },
       {
         "name":
         "Susp. MIST POT CIT",
         "cost":
-        161,
+        138,
         "price":
-        189.98
+        164.22
       },
       {
         "name":
         "Susp. MULTIVITAMIN",
         "cost":
-        138,
+        180,
         "price":
-        162.84
+        214.2
       },
       {
         "name":
         "Susp. MULTIVITAMIN DROP",
         "cost":
-        180,
+        235,
         "price":
-        212.39999999999998
+        279.65
       },
       {
         "name":
         "Susp. NOSPAMIN DROP",
         "cost":
-        235,
+        240,
         "price":
-        277.3
+        285.6
       },
       {
         "name":
@@ -829,39 +830,39 @@
         "cost":
         70,
         "price":
-        82.6
+        83.3
       },
       {
         "name":
-        "Susp. O R S Coparked with zinc",
+        "Susp. O R S with zinc",
         "cost":
-        70,
+        410,
         "price":
-        82.6
+        487.9
       },
       {
         "name":
         "Susp. ORAL DROP NYSTATIN",
         "cost":
-        410,
+        670,
         "price":
-        483.79999999999995
+        797.3
       },
       {
         "name":
         "Susp. PANDA DROP",
         "cost":
-        205,
+        230,
         "price":
-        241.89999999999998
+        273.7
       },
       {
         "name":
         "Susp. PARACETAMOL",
         "cost":
-        130,
+        165,
         "price":
-        153.4
+        196.35
       },
       {
         "name":
@@ -875,41 +876,41 @@
         "name":
         "Susp. PIRITON",
         "cost":
-        130,
+        140,
         "price":
-        153.4
+        166.6
       },
       {
         "name":
         "Susp. PROMETHAZINE",
         "cost":
-        134,
+        160,
         "price":
-        158.12
+        190.4
       },
       {
         "name":
         "Susp. QUININE",
         "cost":
-        0,
+        298,
         "price":
-        0
+        354.62
       },
       {
         "name":
         "Susp. SALBUTAMOL",
         "cost":
-        298,
+        172,
         "price":
-        351.64
+        204.68
       },
       {
         "name":
         "Susp. SEPTRIN",
         "cost":
-        172,
+        195,
         "price":
-        202.95999999999998
+        232.05
       },
       {
         "name":
@@ -931,49 +932,49 @@
         "name":
         "Susp. TUXIL N",
         "cost":
-        0,
+        140,
         "price":
-        0
+        166.6
       },
       {
         "name":
         "Susp. VIT B COMPLEX",
         "cost":
-        0,
+        139,
         "price":
-        0
+        165.41
       },
       {
         "name":
         "Susp. VITAMIN C",
         "cost":
-        139,
+        236,
         "price":
-        164.01999999999998
+        280.84
       },
       {
         "name":
         "Susp. VITAMIN C DROP",
         "cost":
-        236,
+        240,
         "price":
-        278.47999999999996
+        285.6
       },
       {
         "name":
         "Susp. AMINO PEP",
         "cost":
-        670,
+        720,
         "price":
-        790.5999999999999
+        856.8
       },
       {
         "name":
         "Susp. MAYSYDYL",
         "cost":
-        474,
+        520,
         "price":
-        559.3199999999999
+        618.8
       },
       {
         "name":
