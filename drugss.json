@@ -1284,79 +1284,79 @@
         "name":
         "Tab. ASPAIN",
         "cost":
-        0,
+        1300,
         "price":
-        0
+        1547
       },
       {
         "name":
         "Tab. AUGMENTINE 375MG",
         "cost":
-        1300,
+        2000,
         "price":
-        1534
+        2380
       },
       {
         "name":
         "Tab. AUGMENTINE 625MG",
         "cost":
-        953,
+        950,
         "price":
-        1124.54
+        1130.5
       },
       {
         "name":
         "Tab. AUGMENTINE 1G",
         "cost":
-        1103,
+        1300,
         "price":
-        1301.54
+        1547
       },
       {
         "name":
         "Tab. ASCORBIC ACID 100mg",
         "cost":
-        1300,
+        1.500,
         "price":
-        1534
+        1.785
       },
       {
         "name":
         "Tab. AZITHROMYCIN 250MG",
         "cost":
-        473,
+        550,
         "price":
-        558.14
+        654.5
       },
       {
         "name":
         "Tab. AZITHROMYCIN 500MG",
         "cost":
-        550,
+        1500,
         "price":
-        649
+        1785
       },
       {
         "name":
         "Tab. BENDROFLUMETHIAZIDE 2.5MG",
         "cost":
-        0,
+        138,
         "price":
-        0
+        164.22
       },
       {
         "name":
         "Tab. BENDROFLUMETHIAZIDE 5MG",
         "cost":
-        138,
+        140,
         "price":
-        162.84
+        166.6
       },
       {
         "name":
         "Tab. BROMAZEPAM 1.5MG",
         "cost":
-        273,
+        13,
         "price":
         322.14
       },
