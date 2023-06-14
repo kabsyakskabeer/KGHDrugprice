@@ -373,31 +373,31 @@
         "cost":
         33,
         "price":
-        38.94
+        39.7
       },
       {
         "name":
         "Inj. METRONIDAZOLE",
         "cost":
-        212,
+        200,
         "price":
-        250.16
+        238
       },
       {
         "name":
         "Inj. N/SALINE",
         "cost":
-        485,
+        455,
         "price":
-        572.3
+        541.45
       },
       {
         "name":
         "Inj. NEBULES SALBUTAMOL 5MG",
         "cost":
-        350,
+        450,
         "price":
-        413
+        535.5
       },
       {
         "name":
@@ -411,9 +411,9 @@
         "name":
         "Inj. OMEPRAZOLE",
         "cost":
-        377,
+        400,
         "price":
-        444.85999999999996
+        476
       },
       {
         "name":
@@ -421,7 +421,7 @@
         "cost":
         120,
         "price":
-        141.6
+        142.8
       },
       {
         "name":
@@ -429,15 +429,15 @@
         "cost":
         90,
         "price":
-        106.19999999999999
+        107.1
       },
       {
         "name":
         "Inj. PARACETAMOL",
         "cost":
-        30,
+        35,
         "price":
-        35.4
+        41.65
       },
       {
         "name":
@@ -445,7 +445,7 @@
         "cost":
         225,
         "price":
-        265.5
+        267.75
       },
       {
         "name":
@@ -459,9 +459,9 @@
         "name":
         "Inj. PENTAZOCINE",
         "cost":
-        160,
+        250,
         "price":
-        188.79999999999998
+        297.5
       },
       {
         "name":
@@ -469,7 +469,7 @@
         "cost":
         734,
         "price":
-        866.12
+        873.46
       },
       {
         "name":
@@ -477,7 +477,7 @@
         "cost":
         26,
         "price":
-        30.68
+        30.96
       },
       {
         "name":
@@ -485,7 +485,7 @@
         "cost":
         145,
         "price":
-        171.1
+        172.55
       },
       {
         "name":
@@ -499,9 +499,9 @@
         "name":
         "Inj. R/LACTATE",
         "cost":
-        485,
+        450,
         "price":
-        572.3
+        535.5
       },
       {
         "name":
@@ -515,9 +515,9 @@
         "name":
         "Inj. SOLUBLE INSULIN",
         "cost":
-        0,
+        3590,
         "price":
-        0
+        4272.1
       },
       {
         "name":
@@ -533,7 +533,7 @@
         "cost":
         515,
         "price":
-        607.6999999999999
+        612.85
       },
       {
         "name":
@@ -549,71 +549,71 @@
         "cost":
         130,
         "price":
-        153.4
+        154.7
       },
       {
         "name":
         "Inj. Pot. Chloride",
         "cost":
-        0,
+        230,
         "price":
-        0
+        273.7
       },
       {
         "name":
         "Susp. ACIPEP 100ML",
         "cost":
-        452,
+        460,
         "price":
-        533.36
+        547.4
       },
       {
         "name":
-        "Susp. ACIPEP",
+        "Susp. ACIPEP 200ml",
         "cost":
-        0,
+        850,
         "price":
-        0
+        1011.5
       },
       {
         "name":
         "Susp. ALBENDAZOLE",
         "cost":
-        119,
+        128,
         "price":
-        140.42
+        152.35
       },
       {
         "name":
         "Susp. AMOXYL",
         "cost":
-        323,
+        380,
         "price":
-        381.14
+        352.2
       },
       {
         "name":
         "Susp. AMPICLOX",
         "cost":
-        452,
+        490,
         "price":
-        533.36
+        583.1
       },
       {
         "name":
         "Susp. AMPICLOX DROP",
         "cost":
-        465,
+        375,
         "price":
-        548.6999999999999
+        446.25
       },
       {
         "name":
         "Susp. ARTEMETHER",
         "cost":
-        0,
+        470,
         "price":
-        0
+        559.3
       },
       {
         "name":
@@ -621,31 +621,31 @@
         "cost":
         946,
         "price":
-        1116.28
+        1125.74
       },
       {
         "name":
         "Susp. ASTYMIN 200ML",
         "cost":
-        0,
+        1750,
         "price":
-        0
+        2082.5
       },
       {
         "name":
         "Susp. AUGMENTINE 228.5MG",
         "cost":
-        700,
+        720,
         "price":
-        826
+        856.8
       },
       {
         "name":
         "Susp. AZITHROMYCIN",
         "cost":
-        821,
+        780,
         "price":
-        968.78
+        928.2
       },
       {
         "name":
