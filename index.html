@@ -77,9 +77,10 @@
     </div>
     <div id="cal">
         <div id = "invoice">
-            <span>Total Price</span>
+            <span>Total</span>
             <span><input type="number" placeholder="0" id="total"/></span>
             <button id="clearTotal">clear</button>
+            <button id ="items">Items</button>
             
         </div>
         <div id="salar">
@@ -91,7 +92,7 @@
         </div>
     </div>
     <div id="main"></div>
-    <div id="currentDrug">i ahhhha the hidden div </div>
+    <div id="currentDrug"></div>
     <script>
         var lamba = 0;
         var myDrugs = [];
@@ -107,6 +108,8 @@
         let searchInput = document.getElementById("searchInput");
         let searcher = document.getElementById("searcher");
         let searchButton = document.getElementById("searchButton");
+        let items = document.getElementById("items");
+        let theDrugs = "";
         
     
         window.onload = function(){
@@ -141,6 +144,10 @@
                 document.getElementById("drugList").innerHTML = druglist;    
             });
         }
+        items.addEventListener('click',function(){
+            prompt(theDrugs)
+
+        })
         calButton.addEventListener("click", function(){
           
             if(cal.style.zIndex == -1){
@@ -160,18 +167,21 @@
             let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
             let txt = `${selectedDrug.name} ${selectedDrug.price}`;
             currentDrug.textContent = txt;
+            theDrugs += `\n ${currentDrug}`;
         });
     
         clearDrug.addEventListener('click',function(){
             drugInput.value = null;
             total.value = 0;
             lamba =0;
+            theDrugs = "";
 
 
         });
         clearTotal.addEventListener('click',function(){
             total.value = 0;
             lamba =0;
+            theDrugs = "";
 
         });
         addButton.addEventListener('click', function(){
