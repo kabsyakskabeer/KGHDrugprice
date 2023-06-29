@@ -167,14 +167,14 @@
             let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
             let txt = `${selectedDrug.name} ${selectedDrug.price}`;
             currentDrug.textContent = txt;
-            theDrugs += `\n ${txt}`;
+           
             
         });
     
         clearDrug.addEventListener('click',function(){
             drugInput.value = null;
-            total.value = 0;
-            lamba =0;
+            //total.value = 0;
+           // lamba =0;
             theDrugs = "";
 
 
@@ -191,6 +191,9 @@
             let mult = selectedDrug.price * quantityInput.value;
             lamba += mult; 
              total.value = lamba;
+             let txt = `${selectedDrug.name} ${selectedDrug.price}`;
+            currentDrug.textContent = txt;
+            theDrugs += `\n ${txt}`;
             // console.log("ooooooooooooooooo");
             // console.log(`Total = ${total.value}`);
             // console.log(`multi = ${mult}`);
