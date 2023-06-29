@@ -156,6 +156,11 @@
         
            
         });
+        drugInput.addEventListener('change',function(){
+        let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
+        console.log(selectedDrug.name);
+
+        });
     
         clearDrug.addEventListener('click',function(){
             drugInput.value = null;
