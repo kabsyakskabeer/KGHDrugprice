@@ -127,7 +127,7 @@
                     if (!response.ok) {
                         throw new Error("HTTP error " + response.status);
                     }
-                    console.log(response.text());
+                    
                     return response.text();
                 })
                 .then(prices => {
