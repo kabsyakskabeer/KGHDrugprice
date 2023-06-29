@@ -145,7 +145,7 @@
             });
         }
         items.addEventListener('click',function(){
-            alert(theDrugs.textContent);
+            alert(theDrugs);
 
         })
         calButton.addEventListener("click", function(){
@@ -167,7 +167,7 @@
             let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
             let txt = `${selectedDrug.name} ${selectedDrug.price}`;
             currentDrug.textContent = txt;
-            theDrugs.textContent += `\n ${currentDrug}`;
+            theDrugs += `\n ${txt}`;
             
         });
     
