@@ -90,10 +90,11 @@
             <button id="addButton">Add</button>
         </div>
     </div>
-    <div id="main"></div>
+    <div id="currentDrug"></div>
     <script>
         var lamba = 0;
         var myDrugs = [];
+        let currentDrug = document.getElementById('currentDrug');
         let cal = document.getElementById('cal');
         let calButton = document.getElementById("calButton");
         let clearDrug = document.getElementById("clearDrug");
@@ -157,6 +158,9 @@
     
         clearDrug.addEventListener('click',function(){
             drugInput.value = null;
+            total.value = 0;
+            lamba =0;
+
 
 
         });
@@ -169,16 +173,14 @@
          
             let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
             let mult = selectedDrug.price * quantityInput.value;
+            let cdrug = `${selectedDrug.name}   ${selectedDrug.price}`;
             lamba += mult; 
              total.value = lamba;
-            // console.log("ooooooooooooooooo");
-            // console.log(`Total = ${total.value}`);
-            // console.log(`multi = ${mult}`);
-            // console.log(`selected Drug price = ${selectedDrug.price}`);
-            // console.log(`Quantity = ${quantityInput.value}`);
          
             drugInput.value = null;
             quantityInput.value = null;
+            currentDrug.text = cdrug;
+
 
 
         });
