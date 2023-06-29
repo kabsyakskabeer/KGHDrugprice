@@ -157,8 +157,9 @@
            
         });
         drugInput.addEventListener('change',function(){
-        let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
-        console.log(selectedDrug.name);
+            let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
+            let txt = `${selectedDrug.name} ${selectedDrug.price}`;
+            currentDrug.text = text;
 
         });
     
