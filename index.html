@@ -160,11 +160,14 @@
             let selectedDrug = myDrugs.find(drug => drug.name === drugInput.value);
             let txt = `${selectedDrug.name} ${selectedDrug.price}`;
             currentDrug.text = txt;
+            alert(text);
 
         });
     
         clearDrug.addEventListener('click',function(){
             drugInput.value = null;
+            total.value = 0;
+            lamba =0;
 
 
         });
