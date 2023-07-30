@@ -5,7 +5,7 @@
         })
      );
     });
-    
+
     self.addEventListener("install", function(event) {
         event.waitUntil(
         caches.open("prices-cache").then(function(cache) {
@@ -14,4 +14,5 @@
             return cache.add("/drug-offline.json");
             })
         );
+        console.log("installing sw");
     });
