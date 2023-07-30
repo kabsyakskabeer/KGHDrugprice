@@ -5,7 +5,7 @@
         })
      );
     });
-        var CACHE_NAME = "acache";
+        var CACHE_NAME = "b-cache";
         var CACHED_URLS =[
             "drug-offline.json",
             "index-offline.html"
@@ -14,9 +14,9 @@
         self.addEventListener("install", function(event) {
             event.waitUntil(
             caches.open(CACHE_NAME).then(function(cache) {
-        return cache.addAll(CACHED_URLS);
-        })
-        );
+            return cache.addAll(CACHED_URLS);
+            })
+            );
         });
 
   
