@@ -8,7 +8,7 @@
         var CACHE_NAME = "g-cache";
         var CACHED_URLS =[
             "/drug-offline.json",
-            "/index-offline.html
+            "/index-offline.html"
         ];
 
         self.addEventListener("install", function(event) {
