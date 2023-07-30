@@ -5,14 +5,18 @@
         })
      );
     });
+        var CACHE_NAME = "g-cache";
+        var CACHED_URLS =[
+            "/drug-offline.json",
+            "/index-offline.html
+        ];
 
-    self.addEventListener("install", function(event) {
-        event.waitUntil(
-        caches.open("ghi-cache").then(function(cache) {
-        return cache.add("/index-offline.html");
-        }).then(function() {
-            return cache.add("/drug-offline.json");
-            })
+        self.addEventListener("install", function(event) {
+            event.waitUntil(
+            caches.open(CACHE_NAME).then(function(cache) {
+        return cache.addAll(CACHED_URLS);
+        })
         );
-        console.log("installing sw");
-    });
+        });
+
+  
