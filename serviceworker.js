@@ -8,7 +8,7 @@
 
     self.addEventListener("install", function(event) {
         event.waitUntil(
-        caches.open("prices-cache").then(function(cache) {
+        caches.open("ghi-cache").then(function(cache) {
         return cache.add("/index-offline.html");
         }).then(function() {
             return cache.add("/drug-offline.json");
