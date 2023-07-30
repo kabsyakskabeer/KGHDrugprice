@@ -5,7 +5,7 @@
         })
      );
     });
-        var CACHE_NAME = "jcache";
+        var CACHE_NAME = "acache";
         var CACHED_URLS =[
             "drug-offline.json",
             "index-offline.html"
