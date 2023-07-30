@@ -1,14 +1,14 @@
     self.addEventListener("fetch", function(event) {
         event.respondWith(
         fetch(event.request).catch(function() {
-        return caches.match("/index-offline.html");
+        return caches.match("index-offline.html");
         })
      );
     });
-        var CACHE_NAME = "g-cache";
+        var CACHE_NAME = "jcache";
         var CACHED_URLS =[
-            "/drug-offline.json",
-            "/index-offline.html"
+            "drug-offline.json",
+            "index-offline.html"
         ];
 
         self.addEventListener("install", function(event) {
